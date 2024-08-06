@@ -45,6 +45,13 @@
 | 2321 | きのことほうれん草のクリームスパゲッティ | Spaghetti with spinach and mushroom cream | 菠菜蘑菇奶油意大利面 | 546 | 600 | 856 | 3.7 | グランド | Grand Menu | 主 | パスタ | 
 | 2325 | ペンネアラビアータ（全粒粉） | Whole wheat penne arrabbiata | 全麥通心粉 | 391 | 400 | 444 | 2.8 | グランド | Grand Menu | 主 | パスタ | 
 | 2328 | イカの墨入りセピアソース | Spaghetti al Nero di Seppia | 墨鱼汁海鲜意面 | 455 | 500 | 603 | 1.8 | グランド | Grand Menu | 主 | パスタ | 
+| 2402 | 若鶏のディアボラ風 | Grilled Chicken with Chopped Vegetable Sauce | 意式恶魔风嫩鸡排 | 455 | 500 | 673 | 2.8 | グランド | Grand Menu | 主 | ハンバーグ | 
+| 2403 | イタリアンハンバーグ | Italian Hamburg Steak | 意大利风味汉堡牛排 | 455 | 500 | 670 | 3 | グランド | Grand Menu | 主 | ハンバーグ | 
+| 2404 | 柔らかチキンのチーズ焼き | Grilled Chicken with Cheese | 意大利风芝士鸡排 | 455 | 500 | 725 | 2.8 | グランド | Grand Menu | 主 | ハンバーグ | 
+| 2406 | ハンバーグステーキ | Hamburg Steak(Demi-Glace Sauce) | 汉堡牛排(半冰酱) | 364 | 400 | 571 | 2.5 | グランド | Grand Menu | 主 | ハンバーグ | 
+| 2407 | ディアボラ風ハンバーグ | Hamburg Steak with Chopped Vegetable Sauce | 意式恶魔风汉堡牛排 | 455 | 500 | 618 | 3.1 | グランド | Grand Menu | 主 | ハンバーグ | 
+| 2413 | ラムと野菜のグリル | Grilled Lamb ＆ Vegetables | 烤羊肉＆蔬菜 | 791 | 870 | 371 | 2.4 | グランド | Grand Menu | 主 | ハンバーグ | 
+| 2418 | ミックスグリル | Mixed Grill | 混合烧烤 | 591 | 650 | 779 | 3.6 | グランド | Grand Menu | 主 | ハンバーグ | 
 | 3101 | ライス | Rice | 米饭 | 137 | 150 | 303 |  | グランド | Grand Menu | 主 | ライス・パン | 
 | 3102 | ラージライス | Large Rice | 米饭 | 182 | 200 | 303 |  | グランド | Grand Menu | 主 | ライス・パン | 
 | 3103 | スモールライス | Small Rice | 米饭 | 91 | 100 | 303 |  | グランド | Grand Menu | 主 | ライス・パン | 
