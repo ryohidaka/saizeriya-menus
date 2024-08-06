@@ -4,3 +4,6 @@ id,name,name_en,name_zh,price,price_with_tax,calorie,salt,category,category_en,c
 1207,モッツァレラのサラダ,Green Salad with Buffalo Mozzarella Cheese,水牛马苏里拉芝士蔬菜沙拉,364,400,243,0.6,グランド,Grand Menu,主,サラダ
 1208,グリーンサラダ,Green Salad,绿色的沙拉,319,350,166,0.7,グランド,Grand Menu,主,サラダ
 1209,チキンのサラダ,Chicken Salad,鸡肉沙拉,319,350,224,1.3,グランド,Grand Menu,主,サラダ
+1301,コーンクリームスープ,Creamy Corn Soup,奶油玉米浓汤,137,150,154,1,グランド,Grand Menu,主,スープ
+1305,田舎風ミネストローネ,Country-style Minestrone,田园风蔬菜汤,273,300,227,3,グランド,Grand Menu,主,スープ
+1307,たまねぎのズッパ,"Onion soup, Zuppa",洋葱面包汤,273,300,228,2,グランド,Grand Menu,主,スープ

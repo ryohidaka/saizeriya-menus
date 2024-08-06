@@ -68,5 +68,47 @@
     "price": 319,
     "price_with_tax": 350,
     "salt": 1.3
+  },
+  {
+    "calorie": 154,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "スープ",
+    "id": 1301,
+    "name": "コーンクリームスープ",
+    "name_en": "Creamy Corn Soup",
+    "name_zh": "奶油玉米浓汤",
+    "price": 137,
+    "price_with_tax": 150,
+    "salt": 1
+  },
+  {
+    "calorie": 227,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "スープ",
+    "id": 1305,
+    "name": "田舎風ミネストローネ",
+    "name_en": "Country-style Minestrone",
+    "name_zh": "田园风蔬菜汤",
+    "price": 273,
+    "price_with_tax": 300,
+    "salt": 3
+  },
+  {
+    "calorie": 228,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "スープ",
+    "id": 1307,
+    "name": "たまねぎのズッパ",
+    "name_en": "Onion soup, Zuppa",
+    "name_zh": "洋葱面包汤",
+    "price": 273,
+    "price_with_tax": 300,
+    "salt": 2
   }
 ]
