@@ -824,5 +824,47 @@
     "price": 182,
     "price_with_tax": 200,
     "salt": 1.1
+  },
+  {
+    "calorie": 83,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "トッピング",
+    "id": 4301,
+    "name": "トッピング半熟卵",
+    "name_en": "Coddled Egg for Topping",
+    "name_zh": "加半熟蛋",
+    "price": 46,
+    "price_with_tax": 50,
+    "salt": 0.2
+  },
+  {
+    "calorie": 72,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "トッピング",
+    "id": 4304,
+    "name": "野菜ペースト",
+    "name_en": "Vegetable Paste",
+    "name_zh": "蔬菜酱",
+    "price": 91,
+    "price_with_tax": 100,
+    "salt": 0.3
+  },
+  {
+    "calorie": 91,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "トッピング",
+    "id": 4307,
+    "name": "トッピング粉チーズ",
+    "name_en": "Table Cheese",
+    "name_zh": "加芝士粉（摩拉維並干酪）",
+    "price": 91,
+    "price_with_tax": 100,
+    "salt": 0.6
   }
 ]
