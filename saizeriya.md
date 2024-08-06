@@ -59,6 +59,22 @@
 | 3106 | プチフォッカ | Petit Focaccias | 迷你香草面包 | 137 | 150 | 214 | 0.8 | グランド | Grand Menu | 主 | ライス・パン | 
 | 3108 | ミニフィセル | Mini Ficelle | 迷你法式面包 | 137 | 150 | 189 | 1 | グランド | Grand Menu | 主 | ライス・パン | 
 | 3109 | ガーリックトースト | Garlic Toast | 蒜香烤面包 | 182 | 200 | 245 | 1.1 | グランド | Grand Menu | 主 | ライス・パン | 
+| 3201 | ティラミス　クラシコ | Tiramisu | 提拉米苏经典系列 | 273 | 300 | 229 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3204 | ジェラート＆シナモンプチフォッカ | Petit Focaccias with Cinamon Sugar & Italian Gelato | 肉桂糖迷你香草面包配意大利冰激淋 | 410 | 450 | 372 | 0.9 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3205 | イタリアンジェラート | Italian Gelato | 意大利冰激淋 | 228 | 250 | 121 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3206 | イタリアンプリン | Italian Cream Caramel | 意大利布丁 | 228 | 250 | 216 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3207 | チョコレートケーキ | Chocolate Cake | 巧克力蛋糕 | 273 | 300 | 166 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3212 | プリンとティラミス　クラシコの盛合せ | Tiramisu & Italian Cream Caramel | 布丁配提拉米苏 | 455 | 500 | 445 | 0.2 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3213 | トリフアイスクリーム | Ice Cream Truffle | 松露冰激淋 | 319 | 350 | 164 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3215 | コーヒーゼリー＆イタリアンジェラート | Coffee Jelly with Italian Gelato | 意大利冰激淋配咖啡果冻 | 319 | 350 | 165 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | 
+| 3901 | ティラミス　クラシコ | Tiramisu | 提拉米苏经典系列 | 273 | 300 | 229 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | 
+| 3904 | ジェラート＆シナモンプチフォッカ | Petit Focaccias with Cinamon Sugar & Italian Gelato | 肉桂糖迷你香草面包配意大利冰激淋 | 410 | 450 | 372 | 0.9 | グランド | Grand Menu | 主 | デザート (あとで) | 
+| 3905 | イタリアンジェラート | Italian Gelato | 意大利冰激淋 | 228 | 250 | 121 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | 
+| 3906 | イタリアンプリン | Italian Cream Caramel | 意大利布丁 | 228 | 250 | 216 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | 
+| 3907 | チョコレートケーキ | Chocolate Cake | 巧克力蛋糕 | 273 | 300 | 166 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | 
+| 3912 | プリンとティラミス　クラシコの盛合せ | Tiramisu & Italian Cream Caramel | 布丁配提拉米苏 | 455 | 500 | 445 | 0.2 | グランド | Grand Menu | 主 | デザート (あとで) | 
+| 3913 | トリフアイスクリーム | Ice Cream Truffle | 松露冰激淋 | 319 | 350 | 164 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | 
+| 3915 | コーヒーゼリー＆イタリアンジェラート | Coffee Jelly with Italian Gelato | 意大利冰激淋配咖啡果冻 | 319 | 350 | 165 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | 
 | 4301 | トッピング半熟卵 | Coddled Egg for Topping | 加半熟蛋 | 46 | 50 | 83 | 0.2 | グランド | Grand Menu | 主 | トッピング | 
 | 4304 | 野菜ペースト | Vegetable Paste | 蔬菜酱 | 91 | 100 | 72 | 0.3 | グランド | Grand Menu | 主 | トッピング | 
 | 4307 | トッピング粉チーズ | Table Cheese | 加芝士粉（摩拉維並干酪） | 91 | 100 | 91 | 0.6 | グランド | Grand Menu | 主 | トッピング | 
