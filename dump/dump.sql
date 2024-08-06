@@ -20,6 +20,7 @@ CREATE TABLE IF NOT EXISTS "genres" (
 INSERT INTO genres VALUES(12,'サラダ');
 INSERT INTO genres VALUES(13,'スープ');
 INSERT INTO genres VALUES(14,'前菜・おつまみ');
+INSERT INTO genres VALUES(22,'ピザ');
 INSERT INTO genres VALUES(31,'ライス・パン');
 CREATE TABLE IF NOT EXISTS "menus" (
 	"id"	INTEGER NOT NULL UNIQUE,
@@ -61,6 +62,10 @@ INSERT INTO menus VALUES(1422,'ハモン・セラーノ','Jamon Serrano','火腿
 INSERT INTO menus VALUES(1423,'生ハムとバッファローモッツァレラの盛合せ','Jamon Serrano &  Buffalo Mozzarella Cheese','火腿塞拉诺和水牛马苏里拉奶酪',455,500,146,1,1,14);
 INSERT INTO menus VALUES(1425,'柔らか青豆の温サラダ','Green Peas with  Cheese & Egg','鲜嫩青豆加佩科里诺干酪温色拉',182,200,216,1.3999999999999999111,1,14);
 INSERT INTO menus VALUES(1452,'アロスティチーニ（ラムの串焼き）(Wサイズ)','Arrosticini (Lamb skewers)','意式羊肉串（烤羊肉串）',728,800,NULL,NULL,1,14);
+INSERT INTO menus VALUES(2203,'バッファローモッツァレラのマルゲリータピザ','Pizza with  Buffalo Mozzarella Cheese','水牛马苏里拉披萨',364,400,544,2.3999999999999999111,1,22);
+INSERT INTO menus VALUES(2204,'野菜ときのこのピザ','Pizza with Mushrooms & Vegetable Salsa','蔬菜蘑菇比萨',364,400,593,3.2000000000000001776,1,22);
+INSERT INTO menus VALUES(2206,'たっぷりコーンのピザ','Corn Pizza','足量甜玉米比萨',364,400,624,2.6000000000000000888,1,22);
+INSERT INTO menus VALUES(2208,'ソーセージピザ','Sausage Pizza','香肠比萨',364,400,710,4.0999999999999996447,1,22);
 INSERT INTO menus VALUES(3101,'ライス','Rice','米饭',137,150,303,NULL,1,31);
 INSERT INTO menus VALUES(3102,'ラージライス','Large Rice','米饭',182,200,303,NULL,1,31);
 INSERT INTO menus VALUES(3103,'スモールライス','Small Rice','米饭',91,100,303,NULL,1,31);
