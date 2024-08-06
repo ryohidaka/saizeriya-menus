@@ -20,6 +20,7 @@ CREATE TABLE IF NOT EXISTS "genres" (
 INSERT INTO genres VALUES(12,'サラダ');
 INSERT INTO genres VALUES(13,'スープ');
 INSERT INTO genres VALUES(14,'前菜・おつまみ');
+INSERT INTO genres VALUES(21,'ドリア&グラタン');
 INSERT INTO genres VALUES(22,'ピザ');
 INSERT INTO genres VALUES(23,'パスタ');
 INSERT INTO genres VALUES(31,'ライス・パン');
@@ -63,6 +64,11 @@ INSERT INTO menus VALUES(1422,'ハモン・セラーノ','Jamon Serrano','火腿
 INSERT INTO menus VALUES(1423,'生ハムとバッファローモッツァレラの盛合せ','Jamon Serrano &  Buffalo Mozzarella Cheese','火腿塞拉诺和水牛马苏里拉奶酪',455,500,146,1,1,14);
 INSERT INTO menus VALUES(1425,'柔らか青豆の温サラダ','Green Peas with  Cheese & Egg','鲜嫩青豆加佩科里诺干酪温色拉',182,200,216,1.3999999999999999111,1,14);
 INSERT INTO menus VALUES(1452,'アロスティチーニ（ラムの串焼き）(Wサイズ)','Arrosticini (Lamb skewers)','意式羊肉串（烤羊肉串）',728,800,NULL,NULL,1,14);
+INSERT INTO menus VALUES(2101,'ミラノ風ドリア','Meat Sauce Doria','米兰风肉酱多利亚饭',273,300,521,2.5,1,21);
+INSERT INTO menus VALUES(2103,'半熟卵のミラノ風ドリア','Meat Sauce & Coddled Egg Doria','半熟蛋配米兰风多利亚肉酱饭',319,350,604,2.7000000000000001776,1,21);
+INSERT INTO menus VALUES(2106,'タラコとエビのドリア','Doria with “TARAKO”Sauce & Shrimp','鳕鱼籽虾焗饭',364,400,578,2.7999999999999998223,1,21);
+INSERT INTO menus VALUES(2108,'焼チーズ ミラノ風ドリア','Doria with Meat Sauce & Cheese','多利亚肉酱和奶酪',319,350,652,2.8999999999999999111,1,21);
+INSERT INTO menus VALUES(2109,'エビとタラコのクリームグラタン（全粒粉）','Gratin with “TARAKO”Sauce & Shrimp','TARAKO醬蝦焗烤',391,400,481,2.1000000000000000888,1,21);
 INSERT INTO menus VALUES(2203,'バッファローモッツァレラのマルゲリータピザ','Pizza with  Buffalo Mozzarella Cheese','水牛马苏里拉披萨',364,400,544,2.3999999999999999111,1,22);
 INSERT INTO menus VALUES(2204,'野菜ときのこのピザ','Pizza with Mushrooms & Vegetable Salsa','蔬菜蘑菇比萨',364,400,593,3.2000000000000001776,1,22);
 INSERT INTO menus VALUES(2206,'たっぷりコーンのピザ','Corn Pizza','足量甜玉米比萨',364,400,624,2.6000000000000000888,1,22);
