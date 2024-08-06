@@ -7,6 +7,11 @@ CREATE TABLE IF NOT EXISTS "categories" (
 	"name_zh"	TEXT NOT NULL UNIQUE,
 	PRIMARY KEY("id" AUTOINCREMENT)
 );
+INSERT INTO categories VALUES(1,'グランド','Grand Menu','主');
+INSERT INTO categories VALUES(2,'ランチ','Lunch','午餐');
+INSERT INTO categories VALUES(3,'モーニング','Morning','早餐');
+INSERT INTO categories VALUES(4,'キッズ','Kids','孩子们');
+INSERT INTO categories VALUES(5,'テイクアウト','Take-out','外带');
 CREATE TABLE IF NOT EXISTS "genres" (
 	"id"	INTEGER NOT NULL UNIQUE,
 	"name"	TEXT NOT NULL UNIQUE,
@@ -28,4 +33,5 @@ CREATE TABLE IF NOT EXISTS "menus" (
 	PRIMARY KEY("id")
 );
 DELETE FROM sqlite_sequence;
+INSERT INTO sqlite_sequence VALUES('categories',5);
 COMMIT;
