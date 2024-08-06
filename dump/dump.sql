@@ -18,6 +18,7 @@ CREATE TABLE IF NOT EXISTS "genres" (
 	PRIMARY KEY("id")
 );
 INSERT INTO genres VALUES(12,'サラダ');
+INSERT INTO genres VALUES(13,'スープ');
 CREATE TABLE IF NOT EXISTS "menus" (
 	"id"	INTEGER NOT NULL UNIQUE,
 	"name"	TEXT NOT NULL,
@@ -38,6 +39,9 @@ INSERT INTO menus VALUES(1205,'わかめのサラダ','Seaweed Salad','海藻沙
 INSERT INTO menus VALUES(1207,'モッツァレラのサラダ','Green Salad with Buffalo Mozzarella Cheese','水牛马苏里拉芝士蔬菜沙拉',364,400,243,0.59999999999999997779,1,12);
 INSERT INTO menus VALUES(1208,'グリーンサラダ','Green Salad','绿色的沙拉',319,350,166,0.69999999999999995559,1,12);
 INSERT INTO menus VALUES(1209,'チキンのサラダ','Chicken Salad','鸡肉沙拉',319,350,224,1.3000000000000000444,1,12);
+INSERT INTO menus VALUES(1301,'コーンクリームスープ','Creamy Corn Soup','奶油玉米浓汤',137,150,154,1,1,13);
+INSERT INTO menus VALUES(1305,'田舎風ミネストローネ','Country-style Minestrone','田园风蔬菜汤',273,300,227,3,1,13);
+INSERT INTO menus VALUES(1307,'たまねぎのズッパ','Onion soup, Zuppa','洋葱面包汤',273,300,228,2,1,13);
 DELETE FROM sqlite_sequence;
 INSERT INTO sqlite_sequence VALUES('categories',5);
 COMMIT;
