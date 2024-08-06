@@ -24,6 +24,10 @@ id,name,name_en,name_zh,price,price_with_tax,calorie,salt,category,category_en,c
 1423,生ハムとバッファローモッツァレラの盛合せ,Jamon Serrano &  Buffalo Mozzarella Cheese,火腿塞拉诺和水牛马苏里拉奶酪,455,500,146,1,グランド,Grand Menu,主,前菜・おつまみ
 1425,柔らか青豆の温サラダ,Green Peas with  Cheese & Egg,鲜嫩青豆加佩科里诺干酪温色拉,182,200,216,1.4,グランド,Grand Menu,主,前菜・おつまみ
 1452,アロスティチーニ（ラムの串焼き）(Wサイズ),Arrosticini (Lamb skewers),意式羊肉串（烤羊肉串）,728,800,,,グランド,Grand Menu,主,前菜・おつまみ
+2203,バッファローモッツァレラのマルゲリータピザ,Pizza with  Buffalo Mozzarella Cheese,水牛马苏里拉披萨,364,400,544,2.4,グランド,Grand Menu,主,ピザ
+2204,野菜ときのこのピザ,Pizza with Mushrooms & Vegetable Salsa,蔬菜蘑菇比萨,364,400,593,3.2,グランド,Grand Menu,主,ピザ
+2206,たっぷりコーンのピザ,Corn Pizza,足量甜玉米比萨,364,400,624,2.6,グランド,Grand Menu,主,ピザ
+2208,ソーセージピザ,Sausage Pizza,香肠比萨,364,400,710,4.1,グランド,Grand Menu,主,ピザ
 3101,ライス,Rice,米饭,137,150,303,,グランド,Grand Menu,主,ライス・パン
 3102,ラージライス,Large Rice,米饭,182,200,303,,グランド,Grand Menu,主,ライス・パン
 3103,スモールライス,Small Rice,米饭,91,100,303,,グランド,Grand Menu,主,ライス・パン
