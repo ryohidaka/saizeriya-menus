@@ -29,6 +29,17 @@
 | 2204 | 野菜ときのこのピザ | Pizza with Mushrooms & Vegetable Salsa | 蔬菜蘑菇比萨 | 364 | 400 | 593 | 3.2 | グランド | Grand Menu | 主 | ピザ | 
 | 2206 | たっぷりコーンのピザ | Corn Pizza | 足量甜玉米比萨 | 364 | 400 | 624 | 2.6 | グランド | Grand Menu | 主 | ピザ | 
 | 2208 | ソーセージピザ | Sausage Pizza | 香肠比萨 | 364 | 400 | 710 | 4.1 | グランド | Grand Menu | 主 | ピザ | 
+| 2303 | ペペロンチーノ | Spaghetti Peperoncino | 香辣意面 | 273 | 300 | 582 | 1.9 | グランド | Grand Menu | 主 | パスタ | 
+| 2304 | パルマ風スパゲティ | Spaghetti with tomato＆pancetta | 番茄培根意大利面 | 364 | 400 | 753 | 3.1 | グランド | Grand Menu | 主 | パスタ | 
+| 2305 | カルボナーラ | Spaghetti Carbonara | 奶油培根意面 | 455 | 500 | 799 | 3.1 | グランド | Grand Menu | 主 | パスタ | 
+| 2306 | ミートソースボロニア風 | Spaghetti Meat Sauce | 意大利肉酱面 | 364 | 400 | 604 | 3.6 | グランド | Grand Menu | 主 | パスタ | 
+| 2310 | スープ入り塩味ボンゴレ | Spaghetti"VONGOLE" | 意大利面“VONGOLE” | 455 | 500 | 872 | 2.5 | グランド | Grand Menu | 主 | パスタ | 
+| 2316 | 半熟卵のミートソースボロニア風 | Spaghetti Meat Sauce with Coddled Egg | 半熟蛋配意大利肉酱面 | 410 | 450 | 673 | 3.8 | グランド | Grand Menu | 主 | パスタ | 
+| 2317 | 半熟卵のぺペロンチーノ | Spaghetti Peperoncino with soft-boiled egg | 半熟蛋配香辣意面 | 319 | 350 | 665 | 2.1 | グランド | Grand Menu | 主 | パスタ | 
+| 2320 | 小エビのタラコソース | Spaghetti “TARAKO” Sauce with Shrimp | 意大利面“TARAKO”虾酱 | 491 | 540 | 594 | 2.8 | グランド | Grand Menu | 主 | パスタ | 
+| 2321 | きのことほうれん草のクリームスパゲッティ | Spaghetti with spinach and mushroom cream | 菠菜蘑菇奶油意大利面 | 546 | 600 | 856 | 3.7 | グランド | Grand Menu | 主 | パスタ | 
+| 2325 | ペンネアラビアータ（全粒粉） | Whole wheat penne arrabbiata | 全麥通心粉 | 391 | 400 | 444 | 2.8 | グランド | Grand Menu | 主 | パスタ | 
+| 2328 | イカの墨入りセピアソース | Spaghetti al Nero di Seppia | 墨鱼汁海鲜意面 | 455 | 500 | 603 | 1.8 | グランド | Grand Menu | 主 | パスタ | 
 | 3101 | ライス | Rice | 米饭 | 137 | 150 | 303 |  | グランド | Grand Menu | 主 | ライス・パン | 
 | 3102 | ラージライス | Large Rice | 米饭 | 182 | 200 | 303 |  | グランド | Grand Menu | 主 | ライス・パン | 
 | 3103 | スモールライス | Small Rice | 米饭 | 91 | 100 | 303 |  | グランド | Grand Menu | 主 | ライス・パン | 
