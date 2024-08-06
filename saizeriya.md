@@ -25,6 +25,11 @@
 | 1423 | 生ハムとバッファローモッツァレラの盛合せ | Jamon Serrano &  Buffalo Mozzarella Cheese | 火腿塞拉诺和水牛马苏里拉奶酪 | 455 | 500 | 146 | 1 | グランド | Grand Menu | 主 | 前菜・おつまみ | 
 | 1425 | 柔らか青豆の温サラダ | Green Peas with  Cheese & Egg | 鲜嫩青豆加佩科里诺干酪温色拉 | 182 | 200 | 216 | 1.4 | グランド | Grand Menu | 主 | 前菜・おつまみ | 
 | 1452 | アロスティチーニ（ラムの串焼き）(Wサイズ) | Arrosticini (Lamb skewers) | 意式羊肉串（烤羊肉串） | 728 | 800 |  |  | グランド | Grand Menu | 主 | 前菜・おつまみ | 
+| 2101 | ミラノ風ドリア | Meat Sauce Doria | 米兰风肉酱多利亚饭 | 273 | 300 | 521 | 2.5 | グランド | Grand Menu | 主 | ドリア&グラタン | 
+| 2103 | 半熟卵のミラノ風ドリア | Meat Sauce & Coddled Egg Doria | 半熟蛋配米兰风多利亚肉酱饭 | 319 | 350 | 604 | 2.7 | グランド | Grand Menu | 主 | ドリア&グラタン | 
+| 2106 | タラコとエビのドリア | Doria with “TARAKO”Sauce & Shrimp | 鳕鱼籽虾焗饭 | 364 | 400 | 578 | 2.8 | グランド | Grand Menu | 主 | ドリア&グラタン | 
+| 2108 | 焼チーズ ミラノ風ドリア | Doria with Meat Sauce & Cheese | 多利亚肉酱和奶酪 | 319 | 350 | 652 | 2.9 | グランド | Grand Menu | 主 | ドリア&グラタン | 
+| 2109 | エビとタラコのクリームグラタン（全粒粉） | Gratin with “TARAKO”Sauce & Shrimp | TARAKO醬蝦焗烤 | 391 | 400 | 481 | 2.1 | グランド | Grand Menu | 主 | ドリア&グラタン | 
 | 2203 | バッファローモッツァレラのマルゲリータピザ | Pizza with  Buffalo Mozzarella Cheese | 水牛马苏里拉披萨 | 364 | 400 | 544 | 2.4 | グランド | Grand Menu | 主 | ピザ | 
 | 2204 | 野菜ときのこのピザ | Pizza with Mushrooms & Vegetable Salsa | 蔬菜蘑菇比萨 | 364 | 400 | 593 | 3.2 | グランド | Grand Menu | 主 | ピザ | 
 | 2206 | たっぷりコーンのピザ | Corn Pizza | 足量甜玉米比萨 | 364 | 400 | 624 | 2.6 | グランド | Grand Menu | 主 | ピザ | 
