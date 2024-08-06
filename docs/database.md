@@ -1,5 +1,38 @@
 # データベース構成
 
+## ER 図
+
+```mermaid
+erDiagram
+    CATEGORIES {
+        INTEGER id PK
+        TEXT name
+        TEXT name_en
+        TEXT name_zh
+    }
+
+    GENRES {
+        INTEGER id PK
+        TEXT name
+    }
+
+    MENUS {
+        INTEGER id PK
+        TEXT name
+        TEXT name_en
+        TEXT name_zh
+        INTEGER price
+        INTEGER price_with_tax
+        INTEGER calorie
+        INTEGER salt
+        INTEGER category_id FK
+        INTEGER genre_id FK
+    }
+
+    CATEGORIES ||--o{ MENUS: "has"
+    GENRES ||--o{ MENUS: "has"
+```
+
 ## データ構造
 
 ### カテゴリマスタ (`categories`)
