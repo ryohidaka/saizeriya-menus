@@ -21,6 +21,7 @@ INSERT INTO genres VALUES(12,'サラダ');
 INSERT INTO genres VALUES(13,'スープ');
 INSERT INTO genres VALUES(14,'前菜・おつまみ');
 INSERT INTO genres VALUES(22,'ピザ');
+INSERT INTO genres VALUES(23,'パスタ');
 INSERT INTO genres VALUES(31,'ライス・パン');
 CREATE TABLE IF NOT EXISTS "menus" (
 	"id"	INTEGER NOT NULL UNIQUE,
@@ -66,6 +67,17 @@ INSERT INTO menus VALUES(2203,'バッファローモッツァレラのマルゲ�
 INSERT INTO menus VALUES(2204,'野菜ときのこのピザ','Pizza with Mushrooms & Vegetable Salsa','蔬菜蘑菇比萨',364,400,593,3.2000000000000001776,1,22);
 INSERT INTO menus VALUES(2206,'たっぷりコーンのピザ','Corn Pizza','足量甜玉米比萨',364,400,624,2.6000000000000000888,1,22);
 INSERT INTO menus VALUES(2208,'ソーセージピザ','Sausage Pizza','香肠比萨',364,400,710,4.0999999999999996447,1,22);
+INSERT INTO menus VALUES(2303,'ペペロンチーノ','Spaghetti Peperoncino','香辣意面',273,300,582,1.8999999999999999111,1,23);
+INSERT INTO menus VALUES(2304,'パルマ風スパゲティ','Spaghetti with tomato＆pancetta','番茄培根意大利面',364,400,753,3.1000000000000000888,1,23);
+INSERT INTO menus VALUES(2305,'カルボナーラ','Spaghetti Carbonara','奶油培根意面',455,500,799,3.1000000000000000888,1,23);
+INSERT INTO menus VALUES(2306,'ミートソースボロニア風','Spaghetti Meat Sauce','意大利肉酱面',364,400,604,3.6000000000000000888,1,23);
+INSERT INTO menus VALUES(2310,'スープ入り塩味ボンゴレ','Spaghetti"VONGOLE"','意大利面“VONGOLE”',455,500,872,2.5,1,23);
+INSERT INTO menus VALUES(2316,'半熟卵のミートソースボロニア風','Spaghetti Meat Sauce with Coddled Egg','半熟蛋配意大利肉酱面',410,450,673,3.7999999999999998223,1,23);
+INSERT INTO menus VALUES(2317,'半熟卵のぺペロンチーノ','Spaghetti Peperoncino with soft-boiled egg','半熟蛋配香辣意面',319,350,665,2.1000000000000000888,1,23);
+INSERT INTO menus VALUES(2320,'小エビのタラコソース','Spaghetti “TARAKO” Sauce with Shrimp','意大利面“TARAKO”虾酱',491,540,594,2.7999999999999998223,1,23);
+INSERT INTO menus VALUES(2321,'きのことほうれん草のクリームスパゲッティ','Spaghetti with spinach and mushroom cream','菠菜蘑菇奶油意大利面',546,600,856,3.7000000000000001776,1,23);
+INSERT INTO menus VALUES(2325,'ペンネアラビアータ（全粒粉）','Whole wheat penne arrabbiata','全麥通心粉',391,400,444,2.7999999999999998223,1,23);
+INSERT INTO menus VALUES(2328,'イカの墨入りセピアソース','Spaghetti al Nero di Seppia','墨鱼汁海鲜意面',455,500,603,1.8000000000000000444,1,23);
 INSERT INTO menus VALUES(3101,'ライス','Rice','米饭',137,150,303,NULL,1,31);
 INSERT INTO menus VALUES(3102,'ラージライス','Large Rice','米饭',182,200,303,NULL,1,31);
 INSERT INTO menus VALUES(3103,'スモールライス','Small Rice','米饭',91,100,303,NULL,1,31);
