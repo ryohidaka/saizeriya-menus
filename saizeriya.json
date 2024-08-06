@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "calorie": 192,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "サラダ",
+    "id": 1202,
+    "name": "小エビのサラダ",
+    "name_en": "Shrimp Salad",
+    "name_zh": "小甜虾沙拉",
+    "price": 319,
+    "price_with_tax": 350,
+    "salt": 1.5
+  },
+  {
+    "calorie": 174,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "サラダ",
+    "id": 1205,
+    "name": "わかめのサラダ",
+    "name_en": "Seaweed Salad",
+    "name_zh": "海藻沙拉",
+    "price": 319,
+    "price_with_tax": 350,
+    "salt": 2.9
+  },
+  {
+    "calorie": 243,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "サラダ",
+    "id": 1207,
+    "name": "モッツァレラのサラダ",
+    "name_en": "Green Salad with Buffalo Mozzarella Cheese",
+    "name_zh": "水牛马苏里拉芝士蔬菜沙拉",
+    "price": 364,
+    "price_with_tax": 400,
+    "salt": 0.6
+  },
+  {
+    "calorie": 166,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "サラダ",
+    "id": 1208,
+    "name": "グリーンサラダ",
+    "name_en": "Green Salad",
+    "name_zh": "绿色的沙拉",
+    "price": 319,
+    "price_with_tax": 350,
+    "salt": 0.7
+  },
+  {
+    "calorie": 224,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "サラダ",
+    "id": 1209,
+    "name": "チキンのサラダ",
+    "name_en": "Chicken Salad",
+    "name_zh": "鸡肉沙拉",
+    "price": 319,
+    "price_with_tax": 350,
+    "salt": 1.3
+  }
+]
