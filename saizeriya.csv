@@ -7,3 +7,10 @@ id,name,name_en,name_zh,price,price_with_tax,calorie,salt,category,category_en,c
 1301,コーンクリームスープ,Creamy Corn Soup,奶油玉米浓汤,137,150,154,1,グランド,Grand Menu,主,スープ
 1305,田舎風ミネストローネ,Country-style Minestrone,田园风蔬菜汤,273,300,227,3,グランド,Grand Menu,主,スープ
 1307,たまねぎのズッパ,"Onion soup, Zuppa",洋葱面包汤,273,300,228,2,グランド,Grand Menu,主,スープ
+3101,ライス,Rice,米饭,137,150,303,,グランド,Grand Menu,主,ライス・パン
+3102,ラージライス,Large Rice,米饭,182,200,303,,グランド,Grand Menu,主,ライス・パン
+3103,スモールライス,Small Rice,米饭,91,100,303,,グランド,Grand Menu,主,ライス・パン
+3104,シナモンプチフォッカ,Petit Focaccia with Cinnamon Sugar,肉桂糖迷你香草面包,182,200,246,0.8,グランド,Grand Menu,主,ライス・パン
+3106,プチフォッカ,Petit Focaccias,迷你香草面包,137,150,214,0.8,グランド,Grand Menu,主,ライス・パン
+3108,ミニフィセル,Mini Ficelle,迷你法式面包,137,150,189,1,グランド,Grand Menu,主,ライス・パン
+3109,ガーリックトースト,Garlic Toast,蒜香烤面包,182,200,245,1.1,グランド,Grand Menu,主,ライス・パン
