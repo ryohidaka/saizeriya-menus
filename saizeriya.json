@@ -1090,5 +1090,47 @@
     "price": 91,
     "price_with_tax": 100,
     "salt": 0.6
+  },
+  {
+    "calorie": null,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "ドリンクバー",
+    "id": 5101,
+    "name": "セットドリンクバー",
+    "name_en": "Drink Bar",
+    "name_zh": "畅饮吧",
+    "price": 182,
+    "price_with_tax": 200,
+    "salt": null
+  },
+  {
+    "calorie": null,
+    "category": "キッズ",
+    "category_en": "Kids",
+    "category_zh": "孩子们",
+    "genre": "ドリンクバー",
+    "id": 5102,
+    "name": "キッズドリンクバー",
+    "name_en": "Drink Bar",
+    "name_zh": "畅饮吧",
+    "price": 91,
+    "price_with_tax": 100,
+    "salt": null
+  },
+  {
+    "calorie": null,
+    "category": "グランド",
+    "category_en": "Grand Menu",
+    "category_zh": "主",
+    "genre": "ドリンクバー",
+    "id": 5103,
+    "name": "ドリンクバー単品",
+    "name_en": "Drink Bar",
+    "name_zh": "畅饮吧",
+    "price": 273,
+    "price_with_tax": 300,
+    "salt": null
   }
 ]
