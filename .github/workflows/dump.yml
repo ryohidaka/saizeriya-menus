@@ -41,5 +41,7 @@ jobs:
       - name: Commit and push changes
         if: steps.check_changes.outputs.changes_detected == 'true'
         run: |
+          git fetch
+          git pull
           git commit -m "chore: Update dump file"
           git push origin main
