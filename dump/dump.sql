@@ -19,6 +19,7 @@ CREATE TABLE IF NOT EXISTS "genres" (
 );
 INSERT INTO genres VALUES(12,'サラダ');
 INSERT INTO genres VALUES(13,'スープ');
+INSERT INTO genres VALUES(31,'ライス・パン');
 CREATE TABLE IF NOT EXISTS "menus" (
 	"id"	INTEGER NOT NULL UNIQUE,
 	"name"	TEXT NOT NULL,
@@ -42,6 +43,13 @@ INSERT INTO menus VALUES(1209,'チキンのサラダ','Chicken Salad','鸡肉沙
 INSERT INTO menus VALUES(1301,'コーンクリームスープ','Creamy Corn Soup','奶油玉米浓汤',137,150,154,1,1,13);
 INSERT INTO menus VALUES(1305,'田舎風ミネストローネ','Country-style Minestrone','田园风蔬菜汤',273,300,227,3,1,13);
 INSERT INTO menus VALUES(1307,'たまねぎのズッパ','Onion soup, Zuppa','洋葱面包汤',273,300,228,2,1,13);
+INSERT INTO menus VALUES(3101,'ライス','Rice','米饭',137,150,303,NULL,1,31);
+INSERT INTO menus VALUES(3102,'ラージライス','Large Rice','米饭',182,200,303,NULL,1,31);
+INSERT INTO menus VALUES(3103,'スモールライス','Small Rice','米饭',91,100,303,NULL,1,31);
+INSERT INTO menus VALUES(3104,'シナモンプチフォッカ','Petit Focaccia with Cinnamon Sugar','肉桂糖迷你香草面包',182,200,246,0.8000000000000000444,1,31);
+INSERT INTO menus VALUES(3106,'プチフォッカ','Petit Focaccias','迷你香草面包',137,150,214,0.8000000000000000444,1,31);
+INSERT INTO menus VALUES(3108,'ミニフィセル','Mini Ficelle','迷你法式面包',137,150,189,1,1,31);
+INSERT INTO menus VALUES(3109,'ガーリックトースト','Garlic Toast','蒜香烤面包',182,200,245,1.1000000000000000888,1,31);
 DELETE FROM sqlite_sequence;
 INSERT INTO sqlite_sequence VALUES('categories',5);
 COMMIT;
