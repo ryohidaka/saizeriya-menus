@@ -1,0 +1,2 @@
+| id | name | name_en | name_zh | price | price_with_tax | calorie | salt | category | category_en | category_zh | genre |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
