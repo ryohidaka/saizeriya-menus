@@ -30,19 +30,19 @@ INSERT INTO genres VALUES(39,'デザート (あとで)');
 INSERT INTO genres VALUES(43,'トッピング');
 INSERT INTO genres VALUES(51,'ドリンクバー');
 CREATE TABLE IF NOT EXISTS "menus" (
-	"id"	INTEGER NOT NULL UNIQUE,
-	"name"	TEXT NOT NULL,
-	"name_en"	TEXT NOT NULL,
-	"name_zh"	TEXT NOT NULL,
-	"price"	INTEGER NOT NULL,
-	"price_with_tax"	INTEGER NOT NULL,
-	"calorie"	INTEGER,
-	"salt"	INTEGER,
-	"category_id"	INTEGER,
-		"genre_id"	INTEGER,
-	FOREIGN KEY(category_id) REFERENCES categories(id),
-	FOREIGN KEY(genre_id) REFERENCES genres(id),
-	PRIMARY KEY("id")
+    "id"    INTEGER NOT NULL UNIQUE,
+    "name"  TEXT NOT NULL,
+    "name_en"   TEXT,
+    "name_zh"   TEXT,
+    "price" INTEGER NOT NULL,
+    "price_with_tax" INTEGER NOT NULL,
+    "calorie"   INTEGER,
+    "salt"  INTEGER,
+    "category_id"   INTEGER,
+    "genre_id"  INTEGER,
+    FOREIGN KEY(category_id) REFERENCES categories(id),
+    FOREIGN KEY(genre_id) REFERENCES genres(id),
+    PRIMARY KEY("id")
 );
 INSERT INTO menus VALUES(1202,'小エビのサラダ','Shrimp Salad','小甜虾沙拉',319,350,192,1.5,1,12);
 INSERT INTO menus VALUES(1205,'わかめのサラダ','Seaweed Salad','海藻沙拉',319,350,174,2.8999999999999999111,1,12);
