@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"time"
 )
 
 // SQLのデータをJSON形式で出力する。
@@ -44,8 +45,20 @@ func SaveAsJSON(rows *sql.Rows, outputPath string) error {
 		data = append(data, rowMap)
 	}
 
+	// 現在の日時を取得
+	lastUpdated := time.Now().Format(time.RFC3339)
+
+	// 構造体を使用してJSONの順序を保証
+	output := struct {
+		Menus       []map[string]interface{} `json:"menus"`
+		LastUpdated string                   `json:"last_updated"`
+	}{
+		Menus:       data,
+		LastUpdated: lastUpdated,
+	}
+
 	// データをJSON形式に変換
-	jsonData, err := json.MarshalIndent(data, "", "  ")
+	jsonData, err := json.MarshalIndent(output, "", "  ")
 	if err != nil {
 		return fmt.Errorf("データをJSONに変換する際に失敗しました: %v", err)
 	}
