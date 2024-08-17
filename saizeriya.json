@@ -1296,8 +1296,8 @@
       "genre": "ドリンクバー",
       "id": 5101,
       "name": "セットドリンクバー",
-      "name_en": "Drink Bar",
-      "name_zh": "畅饮吧",
+      "name_en": "Drink Bar (When Ordered with Food)",
+      "name_zh": "畅饮吧（畅饮吧套餐）",
       "price": 182,
       "price_with_tax": 200,
       "salt": null
@@ -1310,8 +1310,8 @@
       "genre": "ドリンクバー",
       "id": 5102,
       "name": "キッズドリンクバー",
-      "name_en": "Drink Bar",
-      "name_zh": "畅饮吧",
+      "name_en": "Drink Bar (Kids)",
+      "name_zh": "畅饮吧（儿童）",
       "price": 91,
       "price_with_tax": 100,
       "salt": null
@@ -1324,12 +1324,12 @@
       "genre": "ドリンクバー",
       "id": 5103,
       "name": "ドリンクバー単品",
-      "name_en": "Drink Bar",
-      "name_zh": "畅饮吧",
+      "name_en": "Drink Bar (Only)",
+      "name_zh": "畅饮吧（單品）",
       "price": 273,
       "price_with_tax": 300,
       "salt": null
     }
   ],
-  "last_updated": "2024-08-17T07:51:23Z"
+  "last_updated": "2024-08-17T08:01:41Z"
 }
