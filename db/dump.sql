@@ -137,9 +137,9 @@ INSERT INTO menus VALUES(3915,'コーヒーゼリー＆イタリアンジェラ�
 INSERT INTO menus VALUES(4301,'トッピング半熟卵','Coddled Egg for Topping','加半熟蛋',46,50,83,0.2000000000000000111,1,43);
 INSERT INTO menus VALUES(4304,'野菜ペースト','Vegetable Paste','蔬菜酱',91,100,72,0.29999999999999998889,1,43);
 INSERT INTO menus VALUES(4307,'トッピング粉チーズ','Table Cheese','加芝士粉（摩拉維並干酪）',91,100,91,0.59999999999999997779,1,43);
-INSERT INTO menus VALUES(5101,'セットドリンクバー','Drink Bar','畅饮吧',182,200,NULL,NULL,1,51);
-INSERT INTO menus VALUES(5102,'キッズドリンクバー','Drink Bar','畅饮吧',91,100,NULL,NULL,4,51);
-INSERT INTO menus VALUES(5103,'ドリンクバー単品','Drink Bar','畅饮吧',273,300,NULL,NULL,1,51);
+INSERT INTO menus VALUES(5101,'セットドリンクバー','Drink Bar (When Ordered with Food)','畅饮吧（畅饮吧套餐）',182,200,NULL,NULL,1,51);
+INSERT INTO menus VALUES(5102,'キッズドリンクバー','Drink Bar (Kids)','畅饮吧（儿童）',91,100,NULL,NULL,4,51);
+INSERT INTO menus VALUES(5103,'ドリンクバー単品','Drink Bar (Only)','畅饮吧（單品）',273,300,NULL,NULL,1,51);
 DELETE FROM sqlite_sequence;
 INSERT INTO sqlite_sequence VALUES('categories',5);
 COMMIT;
