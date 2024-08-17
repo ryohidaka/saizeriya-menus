@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.2.0...v0.3.0) (2024-08-17)
+
+
+### Features
+
+* アルコール類のデータを登録 ([e30d794](https://github.com/ryohidaka/saizeriya-menus/commit/e30d7949193fa61a0240b36fb796235e7ef6fd58))
+
 ## [0.2.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.1.0...v0.2.0) (2024-08-17)
 
 
