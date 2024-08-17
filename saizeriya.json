@@ -943,6 +943,62 @@
       "category": "グランド",
       "category_en": "Grand Menu",
       "category_zh": "主",
+      "genre": "ビール・サワー・ノンアルコール",
+      "id": 3301,
+      "name": "生ビール キリン一番搾り　ジョッキ",
+      "name_en": null,
+      "name_zh": null,
+      "price": 364,
+      "price_with_tax": 400,
+      "salt": null
+    },
+    {
+      "calorie": null,
+      "category": "グランド",
+      "category_en": "Grand Menu",
+      "category_zh": "主",
+      "genre": "ビール・サワー・ノンアルコール",
+      "id": 3302,
+      "name": "生ビール キリン一番搾り　グラスビール",
+      "name_en": null,
+      "name_zh": null,
+      "price": 273,
+      "price_with_tax": 300,
+      "salt": null
+    },
+    {
+      "calorie": null,
+      "category": "グランド",
+      "category_en": "Grand Menu",
+      "category_zh": "主",
+      "genre": "ビール・サワー・ノンアルコール",
+      "id": 3303,
+      "name": "ノンアルコール アサヒドライゼロ",
+      "name_en": null,
+      "name_zh": null,
+      "price": 228,
+      "price_with_tax": 250,
+      "salt": null
+    },
+    {
+      "calorie": null,
+      "category": "グランド",
+      "category_en": "Grand Menu",
+      "category_zh": "主",
+      "genre": "ビール・サワー・ノンアルコール",
+      "id": 3304,
+      "name": "サワー キリン氷結シチリア産レモン",
+      "name_en": null,
+      "name_zh": null,
+      "price": 319,
+      "price_with_tax": 350,
+      "salt": null
+    },
+    {
+      "calorie": null,
+      "category": "グランド",
+      "category_en": "Grand Menu",
+      "category_zh": "主",
       "genre": "ワイン",
       "id": 3401,
       "name": "グラスワイン (120ml)　赤",
@@ -1331,5 +1387,5 @@
       "salt": null
     }
   ],
-  "last_updated": "2024-08-17T08:05:13Z"
+  "last_updated": "2024-08-17T08:25:30Z"
 }
