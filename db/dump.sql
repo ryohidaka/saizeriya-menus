@@ -26,6 +26,7 @@ INSERT INTO genres VALUES(23,'パスタ');
 INSERT INTO genres VALUES(24,'ハンバーグ');
 INSERT INTO genres VALUES(31,'ライス・パン');
 INSERT INTO genres VALUES(32,'デザート (すぐに)');
+INSERT INTO genres VALUES(33,'ビール・サワー・ノンアルコール');
 INSERT INTO genres VALUES(34,'ワイン');
 INSERT INTO genres VALUES(39,'デザート (あとで)');
 INSERT INTO genres VALUES(43,'トッピング');
@@ -112,6 +113,10 @@ INSERT INTO menus VALUES(3207,'チョコレートケーキ','Chocolate Cake','�
 INSERT INTO menus VALUES(3212,'プリンとティラミス　クラシコの盛合せ','Tiramisu & Italian Cream Caramel','布丁配提拉米苏',455,500,445,0.2000000000000000111,1,32);
 INSERT INTO menus VALUES(3213,'トリフアイスクリーム','Ice Cream Truffle','松露冰激淋',319,350,164,0.10000000000000000555,1,32);
 INSERT INTO menus VALUES(3215,'コーヒーゼリー＆イタリアンジェラート','Coffee Jelly with Italian Gelato','意大利冰激淋配咖啡果冻',319,350,165,0.10000000000000000555,1,32);
+INSERT INTO menus VALUES(3301,'生ビール キリン一番搾り　ジョッキ',NULL,NULL,364,400,NULL,NULL,1,33);
+INSERT INTO menus VALUES(3302,'生ビール キリン一番搾り　グラスビール',NULL,NULL,273,300,NULL,NULL,1,33);
+INSERT INTO menus VALUES(3303,'ノンアルコール アサヒドライゼロ',NULL,NULL,228,250,NULL,NULL,1,33);
+INSERT INTO menus VALUES(3304,'サワー キリン氷結シチリア産レモン',NULL,NULL,319,350,NULL,NULL,1,33);
 INSERT INTO menus VALUES(3401,'グラスワイン (120ml)　赤',NULL,NULL,91,100,NULL,NULL,1,34);
 INSERT INTO menus VALUES(3402,'グラスワイン (120ml)　白',NULL,NULL,91,100,NULL,NULL,1,34);
 INSERT INTO menus VALUES(3403,'デカンタ (250ml)　赤',NULL,NULL,182,200,NULL,NULL,1,34);
