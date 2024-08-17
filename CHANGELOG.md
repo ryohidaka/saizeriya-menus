@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.1.0...v0.2.0) (2024-08-17)
+
+
+### Features
+
+* ワインのデータを登録 ([efdcaf7](https://github.com/ryohidaka/saizeriya-menus/commit/efdcaf769e3f304d4adafa345252254855da5fb1))
+
+
+### Bug Fixes
+
+* ドリンクバーの英語表記と中国語表記を修正 ([cb43b8f](https://github.com/ryohidaka/saizeriya-menus/commit/cb43b8f8dde53e7595d2d17c75b7cc2f2eb6bc96))
+
 ## 0.1.0 (2024-08-17)
 
 
