@@ -49,6 +49,7 @@ func exportData(format string, outputPath string) {
 	// データを読み込んで構造体に格納
 	for rows.Next() {
 		var menu internal.Menu
+		var isAlcoholInt int
 		var calorie sql.NullInt64
 		var salt sql.NullFloat64
 		var nameEn sql.NullString
@@ -57,11 +58,14 @@ func exportData(format string, outputPath string) {
 		err := rows.Scan(
 			&menu.ID, &menu.Name, &nameEn, &nameZh,
 			&menu.Price, &menu.PriceWithTax, &calorie, &salt,
-			&menu.Category, &menu.CategoryEn, &menu.CategoryZh, &menu.Genre, &menu.IsAlcohol,
+			&menu.Category, &menu.CategoryEn, &menu.CategoryZh, &menu.Genre, &isAlcoholInt,
 		)
 		if err != nil {
 			log.Fatalf("データの読み取りに失敗しました: %v", err)
 		}
+
+		// is_alcoholをBoolに変換
+		menu.IsAlcohol = isAlcoholInt == 1
 
 		// NULL許容のフィールドを代入
 		menu.Calorie = calorie.Int64

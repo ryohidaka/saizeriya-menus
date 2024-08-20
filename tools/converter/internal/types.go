@@ -13,5 +13,5 @@ type Menu struct {
 	CategoryEn   string  `json:"category_en" csv:"category_en" md:"category_en"`
 	CategoryZh   string  `json:"category_zh" csv:"category_zh" md:"category_zh"`
 	Genre        string  `json:"genre" csv:"genre" md:"genre"`
-	IsAlcohol    int     `json:"is_alcohol" csv:"is_alcohol" md:"is_alcohol"`
+	IsAlcohol    bool    `json:"is_alcohol" csv:"is_alcohol" md:"is_alcohol"`
 }
