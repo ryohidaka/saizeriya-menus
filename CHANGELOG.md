@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.4.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.3.0...v0.4.0) (2024-08-20)
+
+
+### Features
+
+* is_alcohol カラムを追加 ([4dff004](https://github.com/ryohidaka/saizeriya-menus/commit/4dff004c85d912860fb36e36a2d57c42ce075c07))
+* is_alcohol のデータを登録 ([d951987](https://github.com/ryohidaka/saizeriya-menus/commit/d9519878b7df93c8c23a1c5432158905c408676e))
+* メニュー一覧取得クエリにis_alcohol カラムを追加 ([773d506](https://github.com/ryohidaka/saizeriya-menus/commit/773d50677f87500b2d53ec0b26f99e97c2633593))
+
+
+### Bug Fixes
+
+* IsAlcohol をBoolに変更 ([4ad7442](https://github.com/ryohidaka/saizeriya-menus/commit/4ad744290cd74cf607389e4983cca512238c5892))
+
 ## [0.3.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.2.0...v0.3.0) (2024-08-17)
 
 
