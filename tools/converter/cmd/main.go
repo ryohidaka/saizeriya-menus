@@ -2,6 +2,7 @@ package main
 
 import (
 	"converter/internal"
+	"database/sql"
 	"flag"
 	"log"
 )
@@ -43,13 +44,42 @@ func exportData(format string, outputPath string) {
 	}
 	defer rows.Close()
 
+	var menus []internal.Menu
+
+	// データを読み込んで構造体に格納
+	for rows.Next() {
+		var menu internal.Menu
+		var calorie sql.NullInt64
+		var salt sql.NullFloat64
+		var nameEn sql.NullString
+		var nameZh sql.NullString
+
+		err := rows.Scan(
+			&menu.ID, &menu.Name, &nameEn, &nameZh,
+			&menu.Price, &menu.PriceWithTax, &calorie, &salt,
+			&menu.Category, &menu.CategoryEn, &menu.CategoryZh, &menu.Genre, &menu.IsAlcohol,
+		)
+		if err != nil {
+			log.Fatalf("データの読み取りに失敗しました: %v", err)
+		}
+
+		// NULL許容のフィールドを代入
+		menu.Calorie = calorie.Int64
+		menu.Salt = salt.Float64
+		menu.NameEn = nameEn.String
+		menu.NameZh = nameZh.String
+
+		menus = append(menus, menu)
+	}
+
+	// 保存処理
 	switch format {
 	case "csv":
-		err = internal.SaveAsCSV(rows, outputPath)
+		err = internal.SaveAsCSV(menus, outputPath)
 	case "json":
-		err = internal.SaveAsJSON(rows, outputPath)
+		err = internal.SaveAsJSON(menus, outputPath)
 	case "md":
-		err = internal.SaveAsMarkdown(rows, outputPath)
+		err = internal.SaveAsMarkdown(menus, outputPath)
 	}
 
 	if err != nil {

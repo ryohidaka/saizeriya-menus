@@ -1,19 +1,19 @@
 package internal
 
 import (
-	"database/sql"
 	"fmt"
 	"os"
+	"reflect"
 	"strings"
 )
 
 // SQLのデータをMarkdown形式で出力する。
-func SaveAsMarkdown(rows *sql.Rows, outputPath string) error {
-	// カラム名を取得
-	columns, err := rows.Columns()
-	if err != nil {
-		// カラム取得に失敗した場合、エラーメッセージを返す
-		return fmt.Errorf("カラムの取得に失敗しました: %v", err)
+func SaveAsMarkdown(data []Menu, outputPath string) error {
+	// Menu構造体からカラム名を取得
+	menuType := reflect.TypeOf(Menu{})
+	columns := make([]string, menuType.NumField())
+	for i := 0; i < menuType.NumField(); i++ {
+		columns[i] = menuType.Field(i).Tag.Get("md")
 	}
 
 	// 出力するMarkdownファイルを作成
@@ -38,28 +38,14 @@ func SaveAsMarkdown(rows *sql.Rows, outputPath string) error {
 	}
 
 	// 各行のデータをMarkdown形式でファイルに書き込む
-	for rows.Next() {
-		columnValues := make([]interface{}, len(columns))
-		columnPointers := make([]interface{}, len(columns))
-
-		// スキャンのためにポインタをセット
-		for i := range columnPointers {
-			columnPointers[i] = &columnValues[i]
-		}
-
-		// 行データのスキャン
-		if err := rows.Scan(columnPointers...); err != nil {
-			return fmt.Errorf("行データのスキャンに失敗しました: %v", err)
-		}
-
-		// 行データをMarkdown形式にフォーマット
-		row := "| "
-		for _, value := range columnValues {
-			if value != nil {
-				row += fmt.Sprintf("%v", value)
-			}
-			row += " | "
-		}
+	for _, menu := range data {
+		// 各列のデータを取り出しMarkdown形式にフォーマット
+		row := fmt.Sprintf(
+			"| %d | %s | %s | %s | %d | %d | %d | %.1f | %s | %s | %s | %s | %d |",
+			menu.ID, menu.Name, menu.NameEn, menu.NameZh,
+			menu.Price, menu.PriceWithTax, menu.Calorie, menu.Salt,
+			menu.Category, menu.CategoryEn, menu.CategoryZh, menu.Genre, menu.IsAlcohol,
+		)
 
 		// フォーマットされた行データをファイルに書き込む
 		if _, err := file.WriteString(row + "\n"); err != nil {

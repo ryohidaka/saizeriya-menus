@@ -1,7 +1,6 @@
 package internal
 
 import (
-	"database/sql"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -10,48 +9,14 @@ import (
 )
 
 // SQLのデータをJSON形式で出力する。
-func SaveAsJSON(rows *sql.Rows, outputPath string) error {
-	// カラム名を取得
-	columns, err := rows.Columns()
-	if err != nil {
-		return fmt.Errorf("カラムの取得に失敗しました: %v", err)
-	}
-
-	// データを保存するスライスを初期化
-	data := make([]map[string]interface{}, 0)
-
-	// 各行のデータをスキャン
-	for rows.Next() {
-		columnValues := make([]interface{}, len(columns))
-		columnPointers := make([]interface{}, len(columns))
-
-		// スキャンのためにポインタをセット
-		for i := range columnPointers {
-			columnPointers[i] = &columnValues[i]
-		}
-
-		// 行データのスキャン
-		if err := rows.Scan(columnPointers...); err != nil {
-			return fmt.Errorf("行データのスキャンに失敗しました: %v", err)
-		}
-
-		// 行データをマップに保存
-		rowMap := make(map[string]interface{})
-		for i, colName := range columns {
-			rowMap[colName] = columnValues[i]
-		}
-
-		// マップをスライスに追加
-		data = append(data, rowMap)
-	}
-
+func SaveAsJSON(data []Menu, outputPath string) error {
 	// 現在の日時を取得
 	lastUpdated := time.Now().Format(time.RFC3339)
 
 	// 構造体を使用してJSONの順序を保証
 	output := struct {
-		Menus       []map[string]interface{} `json:"menus"`
-		LastUpdated string                   `json:"last_updated"`
+		Menus       []Menu `json:"menus"`
+		LastUpdated string `json:"last_updated"`
 	}{
 		Menus:       data,
 		LastUpdated: lastUpdated,
