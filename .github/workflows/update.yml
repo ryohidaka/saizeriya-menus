@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "db/**"
+      - "tools/converter/**"
   workflow_dispatch:
 
 jobs:
