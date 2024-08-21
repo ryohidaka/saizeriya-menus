@@ -36,6 +36,36 @@ CREATE TABLE IF NOT EXISTS "icons" (
 	"icon"	TEXT NOT NULL UNIQUE,
 	PRIMARY KEY("id" AUTOINCREMENT)
 );
+INSERT INTO icons VALUES(1,'🥗');
+INSERT INTO icons VALUES(2,'🥣');
+INSERT INTO icons VALUES(3,'🍗');
+INSERT INTO icons VALUES(4,'🍢');
+INSERT INTO icons VALUES(5,'🥬');
+INSERT INTO icons VALUES(6,'🍤');
+INSERT INTO icons VALUES(7,'🥘');
+INSERT INTO icons VALUES(8,'🌭');
+INSERT INTO icons VALUES(9,'🐔');
+INSERT INTO icons VALUES(10,'🦪');
+INSERT INTO icons VALUES(11,'🥕');
+INSERT INTO icons VALUES(12,'🍅');
+INSERT INTO icons VALUES(13,'🥔');
+INSERT INTO icons VALUES(14,'🍖');
+INSERT INTO icons VALUES(15,'🧀');
+INSERT INTO icons VALUES(16,'🫛');
+INSERT INTO icons VALUES(17,'🍕');
+INSERT INTO icons VALUES(18,'🍝');
+INSERT INTO icons VALUES(19,'🍚');
+INSERT INTO icons VALUES(20,'🍞');
+INSERT INTO icons VALUES(21,'🥖');
+INSERT INTO icons VALUES(22,'🍨');
+INSERT INTO icons VALUES(23,'🍮');
+INSERT INTO icons VALUES(24,'🍰');
+INSERT INTO icons VALUES(25,'🍺');
+INSERT INTO icons VALUES(26,'🍷');
+INSERT INTO icons VALUES(27,'🍾');
+INSERT INTO icons VALUES(28,'🧁');
+INSERT INTO icons VALUES(29,'🥚');
+INSERT INTO icons VALUES(30,'🥤');
 CREATE TABLE IF NOT EXISTS "menus" (
     id INTEGER NOT NULL UNIQUE,
     name TEXT NOT NULL,
@@ -155,5 +185,5 @@ INSERT INTO menus VALUES(5102,'キッズドリンクバー','Drink Bar (Kids)','
 INSERT INTO menus VALUES(5103,'ドリンクバー単品','Drink Bar (Only)','畅饮吧（單品）',273,300,NULL,NULL,1,51,0,NULL);
 DELETE FROM sqlite_sequence;
 INSERT INTO sqlite_sequence VALUES('categories',5);
-INSERT INTO sqlite_sequence VALUES('icons',24);
+INSERT INTO sqlite_sequence VALUES('icons',30);
 COMMIT;
