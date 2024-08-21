@@ -14,4 +14,5 @@ type Menu struct {
 	CategoryZh   string  `json:"category_zh" csv:"category_zh" md:"category_zh"`
 	Genre        string  `json:"genre" csv:"genre" md:"genre"`
 	IsAlcohol    bool    `json:"is_alcohol" csv:"is_alcohol" md:"is_alcohol"`
+	Icon         string  `json:"icon" csv:"icon" md:"icon"`
 }

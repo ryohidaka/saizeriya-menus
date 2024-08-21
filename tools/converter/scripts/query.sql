@@ -11,10 +11,12 @@ SELECT
     categories.name_en AS category_en,
     categories.name_zh AS category_zh,
     genres.name AS genre,
-    menus.is_alcohol
+    menus.is_alcohol,
+    icons.icon
 FROM
     menus
     JOIN categories on categories.id == menus.category_id
     JOIN genres on genres.id == menus.genre_id
+    JOIN icons on icons.id == menus.icon_id
 ORDER BY
     menus.id ASC;

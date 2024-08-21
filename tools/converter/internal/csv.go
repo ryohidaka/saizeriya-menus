@@ -48,6 +48,7 @@ func SaveAsCSV(data []Menu, outputPath string) error {
 			menu.CategoryZh,
 			menu.Genre,
 			fmt.Sprintf("%t", menu.IsAlcohol),
+			menu.Icon,
 		}
 
 		// 行データをCSVに書き込む
