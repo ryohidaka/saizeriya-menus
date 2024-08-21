@@ -16,6 +16,11 @@ erDiagram
         TEXT name
     }
 
+    ICONS {
+        INTEGER id PK
+        TEXT icon
+    }
+
     MENUS {
         INTEGER id PK
         TEXT name
@@ -50,6 +55,13 @@ erDiagram
 | ------ | ----------- | --------- | -------- |
 | `id`   | ジャンル ID | `INTEGER` | `12`     |
 | `name` | ジャンル名  | `TEXT`    | `サラダ` |
+
+### アイコンマスタ (`icons`)
+
+| KEY 名 | 説明        | データ型  | サンプル |
+| ------ | ----------- | --------- | -------- |
+| `id`   | アイコン ID | `INTEGER` | `1`      |
+| `icon` | アイコン    | `TEXT`    | `🥗`     |
 
 ### 商品マスタ (`menus`)
 
