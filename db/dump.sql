@@ -145,6 +145,11 @@ INSERT INTO menus VALUES(4307,'トッピング粉チーズ','Table Cheese','加�
 INSERT INTO menus VALUES(5101,'セットドリンクバー','Drink Bar (When Ordered with Food)','畅饮吧（畅饮吧套餐）',182,200,NULL,NULL,1,51,0);
 INSERT INTO menus VALUES(5102,'キッズドリンクバー','Drink Bar (Kids)','畅饮吧（儿童）',91,100,NULL,NULL,4,51,0);
 INSERT INTO menus VALUES(5103,'ドリンクバー単品','Drink Bar (Only)','畅饮吧（單品）',273,300,NULL,NULL,1,51,0);
+CREATE TABLE IF NOT EXISTS "icons" (
+	"id"	INTEGER NOT NULL UNIQUE,
+	"icon"	TEXT NOT NULL UNIQUE,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
 DELETE FROM sqlite_sequence;
 INSERT INTO sqlite_sequence VALUES('categories',5);
 COMMIT;
