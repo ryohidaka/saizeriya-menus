@@ -32,10 +32,12 @@ erDiagram
         INTEGER salt
         INTEGER category_id FK
         INTEGER genre_id FK
+        INTEGER icon_id FK
     }
 
     CATEGORIES ||--o{ MENUS: "has"
     GENRES ||--o{ MENUS: "has"
+    ICONS ||--o{ MENUS: "has"
 ```
 
 ## データ構造
@@ -77,3 +79,4 @@ erDiagram
 | `salt`           | 食塩相当量 (g)              | `INTEGER` | `1.5`            |
 | `category_id`    | カテゴリ ID                 | `INTEGER` | `1`              |
 | `genre_id`       | ジャンル ID                 | `INTEGER` | `12`             |
+| `icon_id`        | アイコン ID                 | `INTEGER` | `6`              |
