@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.5.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.4.0...v0.5.0) (2024-08-21)
+
+
+### Features
+
+* icons テーブルを追加 ([eda1b12](https://github.com/ryohidaka/saizeriya-menus/commit/eda1b12e7a2d2163db2b82bd6f319162bd73e184))
+* menusテーブルにicon_idカラムを追加 ([3496b32](https://github.com/ryohidaka/saizeriya-menus/commit/3496b32cb82a85a083dfbeca4eb1f2908a32edfb))
+* menusテーブルのicon_idのデータを登録 ([6ced83b](https://github.com/ryohidaka/saizeriya-menus/commit/6ced83b2424f49eb8c23aedd8f1addd8982b72da))
+* アイコンデータを登録 ([c0fff9c](https://github.com/ryohidaka/saizeriya-menus/commit/c0fff9c2b62e232b3cb6819afe07134a07baf52c))
+* データ出力処理のicon対応を追加 ([905b534](https://github.com/ryohidaka/saizeriya-menus/commit/905b534bf8927b8864374726854f2c0f8a1f29e7))
+
 ## [0.4.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.3.0...v0.4.0) (2024-08-20)
 
 
