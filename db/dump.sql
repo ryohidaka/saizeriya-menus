@@ -14,23 +14,23 @@ INSERT INTO categories VALUES(4,'キッズ','Kids','孩子们');
 INSERT INTO categories VALUES(5,'テイクアウト','Take-out','外带');
 CREATE TABLE IF NOT EXISTS "genres" (
 	"id"	INTEGER NOT NULL UNIQUE,
-	"name"	TEXT NOT NULL UNIQUE,
+	"name"	TEXT NOT NULL UNIQUE, pre_id TEXT,
 	PRIMARY KEY("id")
 );
-INSERT INTO genres VALUES(12,'サラダ');
-INSERT INTO genres VALUES(13,'スープ');
-INSERT INTO genres VALUES(14,'前菜・おつまみ');
-INSERT INTO genres VALUES(21,'ドリア&グラタン');
-INSERT INTO genres VALUES(22,'ピザ');
-INSERT INTO genres VALUES(23,'パスタ');
-INSERT INTO genres VALUES(24,'ハンバーグ');
-INSERT INTO genres VALUES(31,'ライス・パン');
-INSERT INTO genres VALUES(32,'デザート (すぐに)');
-INSERT INTO genres VALUES(33,'ビール・サワー・ノンアルコール');
-INSERT INTO genres VALUES(34,'ワイン');
-INSERT INTO genres VALUES(39,'デザート (あとで)');
-INSERT INTO genres VALUES(43,'トッピング');
-INSERT INTO genres VALUES(51,'ドリンクバー');
+INSERT INTO genres VALUES(12,'サラダ',NULL);
+INSERT INTO genres VALUES(13,'スープ',NULL);
+INSERT INTO genres VALUES(14,'前菜・おつまみ',NULL);
+INSERT INTO genres VALUES(21,'ドリア&グラタン',NULL);
+INSERT INTO genres VALUES(22,'ピザ',NULL);
+INSERT INTO genres VALUES(23,'パスタ',NULL);
+INSERT INTO genres VALUES(24,'ハンバーグ',NULL);
+INSERT INTO genres VALUES(31,'ライス・パン',NULL);
+INSERT INTO genres VALUES(32,'デザート (すぐに)',NULL);
+INSERT INTO genres VALUES(33,'ビール・サワー・ノンアルコール',NULL);
+INSERT INTO genres VALUES(34,'ワイン',NULL);
+INSERT INTO genres VALUES(39,'デザート (あとで)',NULL);
+INSERT INTO genres VALUES(43,'トッピング',NULL);
+INSERT INTO genres VALUES(51,'ドリンクバー',NULL);
 CREATE TABLE IF NOT EXISTS "icons" (
 	"id"	INTEGER NOT NULL UNIQUE,
 	"icon"	TEXT NOT NULL UNIQUE,
