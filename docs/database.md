@@ -14,6 +14,7 @@ erDiagram
     GENRES {
         INTEGER id PK
         TEXT name
+        TEXT pre_id
     }
 
     ICONS {
@@ -33,6 +34,7 @@ erDiagram
         INTEGER category_id FK
         INTEGER genre_id FK
         INTEGER icon_id FK
+        TEXT pre_id
     }
 
     CATEGORIES ||--o{ MENUS: "has"
@@ -53,10 +55,11 @@ erDiagram
 
 ### ジャンルマスタ (`genres`)
 
-| KEY 名 | 説明        | データ型  | サンプル |
-| ------ | ----------- | --------- | -------- |
-| `id`   | ジャンル ID | `INTEGER` | `12`     |
-| `name` | ジャンル名  | `TEXT`    | `サラダ` |
+| KEY 名   | 説明          | データ型  | サンプル |
+| -------- | ------------- | --------- | -------- |
+| `id`     | ジャンル ID   | `INTEGER` | `12`     |
+| `name`   | ジャンル名    | `TEXT`    | `サラダ` |
+| `pre_id` | 旧ジャンル ID | `TEXT`    | `SA`     |
 
 ### アイコンマスタ (`icons`)
 
@@ -80,3 +83,4 @@ erDiagram
 | `category_id`    | カテゴリ ID                 | `INTEGER` | `1`              |
 | `genre_id`       | ジャンル ID                 | `INTEGER` | `12`             |
 | `icon_id`        | アイコン ID                 | `INTEGER` | `6`              |
+| `pre_id`         | 旧メニュー ID               | `TEXT`    | `SA02`           |
