@@ -12,7 +12,8 @@ SELECT
     categories.name_zh AS category_zh,
     genres.name AS genre,
     menus.is_alcohol,
-    icons.icon
+    icons.icon,
+    menus.pre_id
 FROM
     menus
     JOIN categories on categories.id == menus.category_id

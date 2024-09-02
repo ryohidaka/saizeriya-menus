@@ -54,11 +54,12 @@ func exportData(format string, outputPath string) {
 		var salt sql.NullFloat64
 		var nameEn sql.NullString
 		var nameZh sql.NullString
+		var preID sql.NullString
 
 		err := rows.Scan(
 			&menu.ID, &menu.Name, &nameEn, &nameZh,
 			&menu.Price, &menu.PriceWithTax, &calorie, &salt,
-			&menu.Category, &menu.CategoryEn, &menu.CategoryZh, &menu.Genre, &isAlcoholInt, &menu.Icon,
+			&menu.Category, &menu.CategoryEn, &menu.CategoryZh, &menu.Genre, &isAlcoholInt, &menu.Icon, &preID,
 		)
 		if err != nil {
 			log.Fatalf("データの読み取りに失敗しました: %v", err)
@@ -72,6 +73,7 @@ func exportData(format string, outputPath string) {
 		menu.Salt = salt.Float64
 		menu.NameEn = nameEn.String
 		menu.NameZh = nameZh.String
+		menu.PreID = preID.String
 
 		menus = append(menus, menu)
 	}

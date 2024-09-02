@@ -15,4 +15,5 @@ type Menu struct {
 	Genre        string  `json:"genre" csv:"genre" md:"genre"`
 	IsAlcohol    bool    `json:"is_alcohol" csv:"is_alcohol" md:"is_alcohol"`
 	Icon         string  `json:"icon" csv:"icon" md:"icon"`
+	PreID        string  `json:"pre_id" csv:"pre_id" md:"pre_id"`
 }
