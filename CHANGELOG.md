@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.6.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.5.0...v0.6.0) (2024-09-02)
+
+
+### Features
+
+* ジャンルマスタテーブルに旧IDカラム(`pre_id`)を追加 ([ae6045e](https://github.com/ryohidaka/saizeriya-menus/commit/ae6045ec0989b3dad663990c622d029065172f0f))
+* ジャンル一覧の旧IDのデータを登録 ([722886d](https://github.com/ryohidaka/saizeriya-menus/commit/722886d10fc31e80118d7c7baa8507f649827d62))
+* メニューマスタテーブルに旧IDカラム(`pre_id`)を追加 ([c160c4e](https://github.com/ryohidaka/saizeriya-menus/commit/c160c4eef88900996e195f651377dc195950e476))
+* メニュー一覧の旧IDのデータを登録 ([020fd9b](https://github.com/ryohidaka/saizeriya-menus/commit/020fd9b93e9333add0b298503290d946054169ad))
+
 ## [0.5.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.4.0...v0.5.0) (2024-08-21)
 
 
