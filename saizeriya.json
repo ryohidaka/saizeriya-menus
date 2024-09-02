@@ -14,7 +14,8 @@
       "category_zh": "主",
       "genre": "サラダ",
       "is_alcohol": false,
-      "icon": "🍤"
+      "icon": "🍤",
+      "pre_id": "SA02"
     },
     {
       "id": 1205,
@@ -30,7 +31,8 @@
       "category_zh": "主",
       "genre": "サラダ",
       "is_alcohol": false,
-      "icon": "🥗"
+      "icon": "🥗",
+      "pre_id": "SA05"
     },
     {
       "id": 1207,
@@ -46,7 +48,8 @@
       "category_zh": "主",
       "genre": "サラダ",
       "is_alcohol": false,
-      "icon": "🥗"
+      "icon": "🥗",
+      "pre_id": "SA07"
     },
     {
       "id": 1208,
@@ -62,7 +65,8 @@
       "category_zh": "主",
       "genre": "サラダ",
       "is_alcohol": false,
-      "icon": "🥗"
+      "icon": "🥗",
+      "pre_id": "SA08"
     },
     {
       "id": 1209,
@@ -78,7 +82,8 @@
       "category_zh": "主",
       "genre": "サラダ",
       "is_alcohol": false,
-      "icon": "🥗"
+      "icon": "🥗",
+      "pre_id": "SA03"
     },
     {
       "id": 1301,
@@ -94,7 +99,8 @@
       "category_zh": "主",
       "genre": "スープ",
       "is_alcohol": false,
-      "icon": "🥣"
+      "icon": "🥣",
+      "pre_id": "SU01"
     },
     {
       "id": 1305,
@@ -110,7 +116,8 @@
       "category_zh": "主",
       "genre": "スープ",
       "is_alcohol": false,
-      "icon": "🥣"
+      "icon": "🥣",
+      "pre_id": "SU05"
     },
     {
       "id": 1307,
@@ -126,7 +133,8 @@
       "category_zh": "主",
       "genre": "スープ",
       "is_alcohol": false,
-      "icon": "🥣"
+      "icon": "🥣",
+      "pre_id": "SU07"
     },
     {
       "id": 1401,
@@ -142,7 +150,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🍗"
+      "icon": "🍗",
+      "pre_id": "AA01"
     },
     {
       "id": 1402,
@@ -158,7 +167,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🍢"
+      "icon": "🍢",
+      "pre_id": "AA02"
     },
     {
       "id": 1403,
@@ -174,7 +184,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🥬"
+      "icon": "🥬",
+      "pre_id": "AA03"
     },
     {
       "id": 1404,
@@ -190,7 +201,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🍤"
+      "icon": "🍤",
+      "pre_id": "AA04"
     },
     {
       "id": 1405,
@@ -206,7 +218,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🥘"
+      "icon": "🥘",
+      "pre_id": "AA05"
     },
     {
       "id": 1406,
@@ -222,7 +235,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🍤"
+      "icon": "🍤",
+      "pre_id": "AA06"
     },
     {
       "id": 1407,
@@ -238,7 +252,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🌭"
+      "icon": "🌭",
+      "pre_id": "AA07"
     },
     {
       "id": 1408,
@@ -254,7 +269,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🐔"
+      "icon": "🐔",
+      "pre_id": "AA08"
     },
     {
       "id": 1410,
@@ -270,7 +286,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🦪"
+      "icon": "🦪",
+      "pre_id": "AA10"
     },
     {
       "id": 1411,
@@ -286,7 +303,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🥗"
+      "icon": "🥗",
+      "pre_id": "AA09"
     },
     {
       "id": 1413,
@@ -302,7 +320,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🥕"
+      "icon": "🥕",
+      "pre_id": "AA13"
     },
     {
       "id": 1414,
@@ -318,7 +337,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🍅"
+      "icon": "🍅",
+      "pre_id": "AA14"
     },
     {
       "id": 1415,
@@ -334,7 +354,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🥔"
+      "icon": "🥔",
+      "pre_id": "AA15"
     },
     {
       "id": 1422,
@@ -350,7 +371,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🍖"
+      "icon": "🍖",
+      "pre_id": "AA22"
     },
     {
       "id": 1423,
@@ -366,7 +388,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🧀"
+      "icon": "🧀",
+      "pre_id": ""
     },
     {
       "id": 1425,
@@ -382,7 +405,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🫛"
+      "icon": "🫛",
+      "pre_id": "AA06"
     },
     {
       "id": 1452,
@@ -398,7 +422,8 @@
       "category_zh": "主",
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
-      "icon": "🍢"
+      "icon": "🍢",
+      "pre_id": "AA52"
     },
     {
       "id": 2101,
@@ -414,7 +439,8 @@
       "category_zh": "主",
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
-      "icon": "🥘"
+      "icon": "🥘",
+      "pre_id": "DG01"
     },
     {
       "id": 2103,
@@ -430,7 +456,8 @@
       "category_zh": "主",
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
-      "icon": "🥘"
+      "icon": "🥘",
+      "pre_id": "DG03"
     },
     {
       "id": 2106,
@@ -446,7 +473,8 @@
       "category_zh": "主",
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
-      "icon": "🥘"
+      "icon": "🥘",
+      "pre_id": "DG06"
     },
     {
       "id": 2108,
@@ -462,7 +490,8 @@
       "category_zh": "主",
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
-      "icon": "🥘"
+      "icon": "🥘",
+      "pre_id": "DG08"
     },
     {
       "id": 2109,
@@ -478,7 +507,8 @@
       "category_zh": "主",
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
-      "icon": "🥘"
+      "icon": "🥘",
+      "pre_id": ""
     },
     {
       "id": 2203,
@@ -494,7 +524,8 @@
       "category_zh": "主",
       "genre": "ピザ",
       "is_alcohol": false,
-      "icon": "🍕"
+      "icon": "🍕",
+      "pre_id": "PZ02"
     },
     {
       "id": 2204,
@@ -510,7 +541,8 @@
       "category_zh": "主",
       "genre": "ピザ",
       "is_alcohol": false,
-      "icon": "🍕"
+      "icon": "🍕",
+      "pre_id": "PZ04"
     },
     {
       "id": 2206,
@@ -526,7 +558,8 @@
       "category_zh": "主",
       "genre": "ピザ",
       "is_alcohol": false,
-      "icon": "🍕"
+      "icon": "🍕",
+      "pre_id": "PZ06"
     },
     {
       "id": 2208,
@@ -542,7 +575,8 @@
       "category_zh": "主",
       "genre": "ピザ",
       "is_alcohol": false,
-      "icon": "🍕"
+      "icon": "🍕",
+      "pre_id": "PZ08"
     },
     {
       "id": 2303,
@@ -558,7 +592,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA03"
     },
     {
       "id": 2304,
@@ -574,7 +609,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA04"
     },
     {
       "id": 2305,
@@ -590,7 +626,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA05"
     },
     {
       "id": 2306,
@@ -606,7 +643,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA02"
     },
     {
       "id": 2310,
@@ -622,7 +660,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA10"
     },
     {
       "id": 2316,
@@ -638,7 +677,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA12"
     },
     {
       "id": 2317,
@@ -654,7 +694,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA17"
     },
     {
       "id": 2320,
@@ -670,7 +711,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA20"
     },
     {
       "id": 2321,
@@ -686,7 +728,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": ""
     },
     {
       "id": 2325,
@@ -702,7 +745,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": "PA25"
     },
     {
       "id": 2328,
@@ -718,7 +762,8 @@
       "category_zh": "主",
       "genre": "パスタ",
       "is_alcohol": false,
-      "icon": "🍝"
+      "icon": "🍝",
+      "pre_id": ""
     },
     {
       "id": 2402,
@@ -734,7 +779,8 @@
       "category_zh": "主",
       "genre": "ハンバーグ",
       "is_alcohol": false,
-      "icon": "🐔"
+      "icon": "🐔",
+      "pre_id": "MT02"
     },
     {
       "id": 2403,
@@ -750,7 +796,8 @@
       "category_zh": "主",
       "genre": "ハンバーグ",
       "is_alcohol": false,
-      "icon": "🍖"
+      "icon": "🍖",
+      "pre_id": "MT03"
     },
     {
       "id": 2404,
@@ -766,7 +813,8 @@
       "category_zh": "主",
       "genre": "ハンバーグ",
       "is_alcohol": false,
-      "icon": "🐔"
+      "icon": "🐔",
+      "pre_id": "MT04"
     },
     {
       "id": 2406,
@@ -782,7 +830,8 @@
       "category_zh": "主",
       "genre": "ハンバーグ",
       "is_alcohol": false,
-      "icon": "🍖"
+      "icon": "🍖",
+      "pre_id": "MT01"
     },
     {
       "id": 2407,
@@ -798,7 +847,8 @@
       "category_zh": "主",
       "genre": "ハンバーグ",
       "is_alcohol": false,
-      "icon": "🍖"
+      "icon": "🍖",
+      "pre_id": "MT07"
     },
     {
       "id": 2413,
@@ -814,7 +864,8 @@
       "category_zh": "主",
       "genre": "ハンバーグ",
       "is_alcohol": false,
-      "icon": "🍖"
+      "icon": "🍖",
+      "pre_id": "MT13"
     },
     {
       "id": 2418,
@@ -830,7 +881,8 @@
       "category_zh": "主",
       "genre": "ハンバーグ",
       "is_alcohol": false,
-      "icon": "🍖"
+      "icon": "🍖",
+      "pre_id": ""
     },
     {
       "id": 3101,
@@ -846,7 +898,8 @@
       "category_zh": "主",
       "genre": "ライス・パン",
       "is_alcohol": false,
-      "icon": "🍚"
+      "icon": "🍚",
+      "pre_id": "RP01"
     },
     {
       "id": 3102,
@@ -862,7 +915,8 @@
       "category_zh": "主",
       "genre": "ライス・パン",
       "is_alcohol": false,
-      "icon": "🍚"
+      "icon": "🍚",
+      "pre_id": "RP02"
     },
     {
       "id": 3103,
@@ -878,7 +932,8 @@
       "category_zh": "主",
       "genre": "ライス・パン",
       "is_alcohol": false,
-      "icon": "🍚"
+      "icon": "🍚",
+      "pre_id": "RP03"
     },
     {
       "id": 3104,
@@ -894,7 +949,8 @@
       "category_zh": "主",
       "genre": "ライス・パン",
       "is_alcohol": false,
-      "icon": "🍞"
+      "icon": "🍞",
+      "pre_id": "RP04"
     },
     {
       "id": 3106,
@@ -910,7 +966,8 @@
       "category_zh": "主",
       "genre": "ライス・パン",
       "is_alcohol": false,
-      "icon": "🍞"
+      "icon": "🍞",
+      "pre_id": "RP06"
     },
     {
       "id": 3108,
@@ -926,7 +983,8 @@
       "category_zh": "主",
       "genre": "ライス・パン",
       "is_alcohol": false,
-      "icon": "🥖"
+      "icon": "🥖",
+      "pre_id": "RP08"
     },
     {
       "id": 3109,
@@ -942,7 +1000,8 @@
       "category_zh": "主",
       "genre": "ライス・パン",
       "is_alcohol": false,
-      "icon": "🥖"
+      "icon": "🥖",
+      "pre_id": "RP09"
     },
     {
       "id": 3201,
@@ -958,7 +1017,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🧁"
+      "icon": "🧁",
+      "pre_id": "DE01"
     },
     {
       "id": 3204,
@@ -974,7 +1034,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE04"
     },
     {
       "id": 3205,
@@ -990,7 +1051,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE05"
     },
     {
       "id": 3206,
@@ -1006,7 +1068,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🍮"
+      "icon": "🍮",
+      "pre_id": "DE06"
     },
     {
       "id": 3207,
@@ -1022,7 +1085,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🍰"
+      "icon": "🍰",
+      "pre_id": "DE07"
     },
     {
       "id": 3212,
@@ -1038,7 +1102,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🍮"
+      "icon": "🍮",
+      "pre_id": "DE12"
     },
     {
       "id": 3213,
@@ -1054,7 +1119,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE13"
     },
     {
       "id": 3215,
@@ -1070,7 +1136,8 @@
       "category_zh": "主",
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE15"
     },
     {
       "id": 3301,
@@ -1086,7 +1153,8 @@
       "category_zh": "主",
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": true,
-      "icon": "🍺"
+      "icon": "🍺",
+      "pre_id": "BR01"
     },
     {
       "id": 3302,
@@ -1102,7 +1170,8 @@
       "category_zh": "主",
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": true,
-      "icon": "🍺"
+      "icon": "🍺",
+      "pre_id": "BR02"
     },
     {
       "id": 3303,
@@ -1118,7 +1187,8 @@
       "category_zh": "主",
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": false,
-      "icon": "🍺"
+      "icon": "🍺",
+      "pre_id": ""
     },
     {
       "id": 3304,
@@ -1134,7 +1204,8 @@
       "category_zh": "主",
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": true,
-      "icon": "🍺"
+      "icon": "🍺",
+      "pre_id": "BR04"
     },
     {
       "id": 3401,
@@ -1150,7 +1221,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍷"
+      "icon": "🍷",
+      "pre_id": "WN01"
     },
     {
       "id": 3402,
@@ -1166,7 +1238,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍷"
+      "icon": "🍷",
+      "pre_id": "WN02"
     },
     {
       "id": 3403,
@@ -1182,7 +1255,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍷"
+      "icon": "🍷",
+      "pre_id": "WN03"
     },
     {
       "id": 3404,
@@ -1198,7 +1272,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍷"
+      "icon": "🍷",
+      "pre_id": "WN04"
     },
     {
       "id": 3405,
@@ -1214,7 +1289,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍷"
+      "icon": "🍷",
+      "pre_id": "WN05"
     },
     {
       "id": 3406,
@@ -1230,7 +1306,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍷"
+      "icon": "🍷",
+      "pre_id": "WN06"
     },
     {
       "id": 3407,
@@ -1246,7 +1323,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN07"
     },
     {
       "id": 3408,
@@ -1262,7 +1340,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN08"
     },
     {
       "id": 3412,
@@ -1278,7 +1357,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN12"
     },
     {
       "id": 3413,
@@ -1294,7 +1374,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN13"
     },
     {
       "id": 3414,
@@ -1310,7 +1391,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN14"
     },
     {
       "id": 3415,
@@ -1326,7 +1408,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN15"
     },
     {
       "id": 3416,
@@ -1342,7 +1425,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN16"
     },
     {
       "id": 3419,
@@ -1358,7 +1442,8 @@
       "category_zh": "主",
       "genre": "ワイン",
       "is_alcohol": true,
-      "icon": "🍾"
+      "icon": "🍾",
+      "pre_id": "WN19"
     },
     {
       "id": 3901,
@@ -1374,7 +1459,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🧁"
+      "icon": "🧁",
+      "pre_id": "DE01"
     },
     {
       "id": 3904,
@@ -1390,7 +1476,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE04"
     },
     {
       "id": 3905,
@@ -1406,7 +1493,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE05"
     },
     {
       "id": 3906,
@@ -1422,7 +1510,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🍮"
+      "icon": "🍮",
+      "pre_id": "DE06"
     },
     {
       "id": 3907,
@@ -1438,7 +1527,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🍰"
+      "icon": "🍰",
+      "pre_id": "DE07"
     },
     {
       "id": 3912,
@@ -1454,7 +1544,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🍮"
+      "icon": "🍮",
+      "pre_id": "DE12"
     },
     {
       "id": 3913,
@@ -1470,7 +1561,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE13"
     },
     {
       "id": 3915,
@@ -1486,7 +1578,8 @@
       "category_zh": "主",
       "genre": "デザート (あとで)",
       "is_alcohol": false,
-      "icon": "🍨"
+      "icon": "🍨",
+      "pre_id": "DE15"
     },
     {
       "id": 4301,
@@ -1502,7 +1595,8 @@
       "category_zh": "主",
       "genre": "トッピング",
       "is_alcohol": false,
-      "icon": "🥚"
+      "icon": "🥚",
+      "pre_id": "TP01"
     },
     {
       "id": 4304,
@@ -1518,7 +1612,8 @@
       "category_zh": "主",
       "genre": "トッピング",
       "is_alcohol": false,
-      "icon": "🥗"
+      "icon": "🥗",
+      "pre_id": "TP04"
     },
     {
       "id": 4307,
@@ -1534,7 +1629,8 @@
       "category_zh": "主",
       "genre": "トッピング",
       "is_alcohol": false,
-      "icon": "🧀"
+      "icon": "🧀",
+      "pre_id": "TP07"
     },
     {
       "id": 5101,
@@ -1550,7 +1646,8 @@
       "category_zh": "主",
       "genre": "ドリンクバー",
       "is_alcohol": false,
-      "icon": "🥤"
+      "icon": "🥤",
+      "pre_id": "DB01"
     },
     {
       "id": 5102,
@@ -1566,7 +1663,8 @@
       "category_zh": "孩子们",
       "genre": "ドリンクバー",
       "is_alcohol": false,
-      "icon": "🥤"
+      "icon": "🥤",
+      "pre_id": "DB02"
     },
     {
       "id": 5103,
@@ -1582,8 +1680,9 @@
       "category_zh": "主",
       "genre": "ドリンクバー",
       "is_alcohol": false,
-      "icon": "🥤"
+      "icon": "🥤",
+      "pre_id": "DB03"
     }
   ],
-  "last_updated": "2024-09-02T00:19:00Z"
+  "last_updated": "2024-09-02T09:01:11Z"
 }

@@ -1,101 +1,101 @@
-| id | name | name_en | name_zh | price | price_with_tax | calorie | salt | category | category_en | category_zh | genre | is_alcohol | icon |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 1202 | 小エビのサラダ | Shrimp Salad | 小甜虾沙拉 | 319 | 350 | 192 | 1.5 | グランド | Grand Menu | 主 | サラダ | false | 🍤 |
-| 1205 | わかめのサラダ | Seaweed Salad | 海藻沙拉 | 319 | 350 | 174 | 2.9 | グランド | Grand Menu | 主 | サラダ | false | 🥗 |
-| 1207 | モッツァレラのサラダ | Green Salad with Buffalo Mozzarella Cheese | 水牛马苏里拉芝士蔬菜沙拉 | 364 | 400 | 243 | 0.6 | グランド | Grand Menu | 主 | サラダ | false | 🥗 |
-| 1208 | グリーンサラダ | Green Salad | 绿色的沙拉 | 319 | 350 | 166 | 0.7 | グランド | Grand Menu | 主 | サラダ | false | 🥗 |
-| 1209 | チキンのサラダ | Chicken Salad | 鸡肉沙拉 | 319 | 350 | 224 | 1.3 | グランド | Grand Menu | 主 | サラダ | false | 🥗 |
-| 1301 | コーンクリームスープ | Creamy Corn Soup | 奶油玉米浓汤 | 137 | 150 | 154 | 1.0 | グランド | Grand Menu | 主 | スープ | false | 🥣 |
-| 1305 | 田舎風ミネストローネ | Country-style Minestrone | 田园风蔬菜汤 | 273 | 300 | 227 | 3.0 | グランド | Grand Menu | 主 | スープ | false | 🥣 |
-| 1307 | たまねぎのズッパ | Onion soup, Zuppa | 洋葱面包汤 | 273 | 300 | 228 | 2.0 | グランド | Grand Menu | 主 | スープ | false | 🥣 |
-| 1401 | 辛味チキン | Spicy Grilled Chicken | 香辣鸡翅 | 273 | 300 | 295 | 1.8 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍗 |
-| 1402 | アロスティチーニ（ラムの串焼き） | Arrosticini (Lamb skewers) | 意式羊肉串（烤羊肉串） | 364 | 400 | 224 | 0.6 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍢 |
-| 1403 | ほうれん草のソテー | Sauteed Spinach（Salt Oil Sauce） | 炖煮菠菜（盐油酱） | 182 | 200 | 223 | 1.2 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥬 |
-| 1404 | ポップコーンシュリンプ | Popcorn Shrimp | 炸小甜虾 | 273 | 300 | 234 | 1.2 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍤 |
-| 1405 | エスカルゴのオーブン焼き | Grilled Escargots | 蒜香焗蜗牛 | 364 | 400 | 220 | 1.3 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥘 |
-| 1406 | 小エビのカクテル | Shrimp with "SAIZERIYA" Dressing | 虾佐“SAIZERIYA”酱汁 | 255 | 280 | 126 | 2.3 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍤 |
-| 1407 | チョリソー（辛味ソーセージ） | Grilled Spicy Sausages | 口利左香肠（辣猪肉香肠） | 364 | 400 | 425 | 2.9 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🌭 |
-| 1408 | 蒸し鶏の香味ソース | Chicken with Flavored Vegetable Sauce（Limited to some stores） | 鸡肉蔬菜酱（限部分店鋪） | 255 | 280 | 192 | 2.4 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🐔 |
-| 1410 | ムール貝のガーリック焼き | Grilled Mussels with Vegetable Salsa | 蒜香烤蛤蜊 | 364 | 400 | 170 | 1.4 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🦪 |
-| 1411 | アスパラガスの温サラダ | Asparagus with  Cheese  | 芦笋配山核桃奶酪 | 273 | 300 | 80 | 0.7 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥗 |
-| 1413 | 爽やかにんじんサラダ | Refreshing Carrot Salad | 爽口胡萝卜沙拉 | 182 | 200 | 93 | 0.9 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥕 |
-| 1414 | モッツァレラトマト | Buffalo Mozzarella Cheese &  Tomato | 布法罗马苏里拉奶酪和番茄 | 391 | 430 | 255 | 0.2 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍅 |
-| 1415 | カリッとポテト | Crispy Potatoes | 酥烤马铃薯 | 255 | 280 | 389 | 2.1 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥔 |
-| 1422 | ハモン・セラーノ | Jamon Serrano | 火腿塞拉诺 | 291 | 320 | 39 | 0.9 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍖 |
-| 1423 | 生ハムとバッファローモッツァレラの盛合せ | Jamon Serrano &  Buffalo Mozzarella Cheese | 火腿塞拉诺和水牛马苏里拉奶酪 | 455 | 500 | 146 | 1.0 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🧀 |
-| 1425 | 柔らか青豆の温サラダ | Green Peas with  Cheese & Egg | 鲜嫩青豆加佩科里诺干酪温色拉 | 182 | 200 | 216 | 1.4 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🫛 |
-| 1452 | アロスティチーニ（ラムの串焼き）(Wサイズ) | Arrosticini (Lamb skewers) | 意式羊肉串（烤羊肉串） | 728 | 800 | 0 | 0.0 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍢 |
-| 2101 | ミラノ風ドリア | Meat Sauce Doria | 米兰风肉酱多利亚饭 | 273 | 300 | 521 | 2.5 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 |
-| 2103 | 半熟卵のミラノ風ドリア | Meat Sauce & Coddled Egg Doria | 半熟蛋配米兰风多利亚肉酱饭 | 319 | 350 | 604 | 2.7 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 |
-| 2106 | タラコとエビのドリア | Doria with “TARAKO”Sauce & Shrimp | 鳕鱼籽虾焗饭 | 364 | 400 | 578 | 2.8 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 |
-| 2108 | 焼チーズ ミラノ風ドリア | Doria with Meat Sauce & Cheese | 多利亚肉酱和奶酪 | 319 | 350 | 652 | 2.9 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 |
-| 2109 | エビとタラコのクリームグラタン（全粒粉） | Gratin with “TARAKO”Sauce & Shrimp | TARAKO醬蝦焗烤 | 391 | 400 | 481 | 2.1 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 |
-| 2203 | バッファローモッツァレラのマルゲリータピザ | Pizza with  Buffalo Mozzarella Cheese | 水牛马苏里拉披萨 | 364 | 400 | 544 | 2.4 | グランド | Grand Menu | 主 | ピザ | false | 🍕 |
-| 2204 | 野菜ときのこのピザ | Pizza with Mushrooms & Vegetable Salsa | 蔬菜蘑菇比萨 | 364 | 400 | 593 | 3.2 | グランド | Grand Menu | 主 | ピザ | false | 🍕 |
-| 2206 | たっぷりコーンのピザ | Corn Pizza | 足量甜玉米比萨 | 364 | 400 | 624 | 2.6 | グランド | Grand Menu | 主 | ピザ | false | 🍕 |
-| 2208 | ソーセージピザ | Sausage Pizza | 香肠比萨 | 364 | 400 | 710 | 4.1 | グランド | Grand Menu | 主 | ピザ | false | 🍕 |
-| 2303 | ペペロンチーノ | Spaghetti Peperoncino | 香辣意面 | 273 | 300 | 582 | 1.9 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2304 | パルマ風スパゲティ | Spaghetti with tomato＆pancetta | 番茄培根意大利面 | 364 | 400 | 753 | 3.1 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2305 | カルボナーラ | Spaghetti Carbonara | 奶油培根意面 | 455 | 500 | 799 | 3.1 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2306 | ミートソースボロニア風 | Spaghetti Meat Sauce | 意大利肉酱面 | 364 | 400 | 604 | 3.6 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2310 | スープ入り塩味ボンゴレ | Spaghetti"VONGOLE" | 意大利面“VONGOLE” | 455 | 500 | 872 | 2.5 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2316 | 半熟卵のミートソースボロニア風 | Spaghetti Meat Sauce with Coddled Egg | 半熟蛋配意大利肉酱面 | 410 | 450 | 673 | 3.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2317 | 半熟卵のぺペロンチーノ | Spaghetti Peperoncino with soft-boiled egg | 半熟蛋配香辣意面 | 319 | 350 | 665 | 2.1 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2320 | 小エビのタラコソース | Spaghetti “TARAKO” Sauce with Shrimp | 意大利面“TARAKO”虾酱 | 491 | 540 | 594 | 2.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2321 | きのことほうれん草のクリームスパゲッティ | Spaghetti with spinach and mushroom cream | 菠菜蘑菇奶油意大利面 | 546 | 600 | 856 | 3.7 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2325 | ペンネアラビアータ（全粒粉） | Whole wheat penne arrabbiata | 全麥通心粉 | 391 | 400 | 444 | 2.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2328 | イカの墨入りセピアソース | Spaghetti al Nero di Seppia | 墨鱼汁海鲜意面 | 455 | 500 | 603 | 1.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |
-| 2402 | 若鶏のディアボラ風 | Grilled Chicken with Chopped Vegetable Sauce | 意式恶魔风嫩鸡排 | 455 | 500 | 673 | 2.8 | グランド | Grand Menu | 主 | ハンバーグ | false | 🐔 |
-| 2403 | イタリアンハンバーグ | Italian Hamburg Steak | 意大利风味汉堡牛排 | 455 | 500 | 670 | 3.0 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |
-| 2404 | 柔らかチキンのチーズ焼き | Grilled Chicken with Cheese | 意大利风芝士鸡排 | 455 | 500 | 725 | 2.8 | グランド | Grand Menu | 主 | ハンバーグ | false | 🐔 |
-| 2406 | ハンバーグステーキ | Hamburg Steak(Demi-Glace Sauce) | 汉堡牛排(半冰酱) | 364 | 400 | 571 | 2.5 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |
-| 2407 | ディアボラ風ハンバーグ | Hamburg Steak with Chopped Vegetable Sauce | 意式恶魔风汉堡牛排 | 455 | 500 | 618 | 3.1 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |
-| 2413 | ラムと野菜のグリル | Grilled Lamb ＆ Vegetables | 烤羊肉＆蔬菜 | 791 | 870 | 371 | 2.4 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |
-| 2418 | ミックスグリル | Mixed Grill | 混合烧烤 | 591 | 650 | 779 | 3.6 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |
-| 3101 | ライス | Rice | 米饭 | 137 | 150 | 303 | 0.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🍚 |
-| 3102 | ラージライス | Large Rice | 米饭 | 182 | 200 | 303 | 0.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🍚 |
-| 3103 | スモールライス | Small Rice | 米饭 | 91 | 100 | 303 | 0.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🍚 |
-| 3104 | シナモンプチフォッカ | Petit Focaccia with Cinnamon Sugar | 肉桂糖迷你香草面包 | 182 | 200 | 246 | 0.8 | グランド | Grand Menu | 主 | ライス・パン | false | 🍞 |
-| 3106 | プチフォッカ | Petit Focaccias | 迷你香草面包 | 137 | 150 | 214 | 0.8 | グランド | Grand Menu | 主 | ライス・パン | false | 🍞 |
-| 3108 | ミニフィセル | Mini Ficelle | 迷你法式面包 | 137 | 150 | 189 | 1.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🥖 |
-| 3109 | ガーリックトースト | Garlic Toast | 蒜香烤面包 | 182 | 200 | 245 | 1.1 | グランド | Grand Menu | 主 | ライス・パン | false | 🥖 |
-| 3201 | ティラミス　クラシコ | Tiramisu | 提拉米苏经典系列 | 273 | 300 | 229 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🧁 |
-| 3204 | ジェラート＆シナモンプチフォッカ | Petit Focaccias with Cinamon Sugar & Italian Gelato | 肉桂糖迷你香草面包配意大利冰激淋 | 410 | 450 | 372 | 0.9 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 |
-| 3205 | イタリアンジェラート | Italian Gelato | 意大利冰激淋 | 228 | 250 | 121 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 |
-| 3206 | イタリアンプリン | Italian Cream Caramel | 意大利布丁 | 228 | 250 | 216 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍮 |
-| 3207 | チョコレートケーキ | Chocolate Cake | 巧克力蛋糕 | 273 | 300 | 166 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍰 |
-| 3212 | プリンとティラミス　クラシコの盛合せ | Tiramisu & Italian Cream Caramel | 布丁配提拉米苏 | 455 | 500 | 445 | 0.2 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍮 |
-| 3213 | トリフアイスクリーム | Ice Cream Truffle | 松露冰激淋 | 319 | 350 | 164 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 |
-| 3215 | コーヒーゼリー＆イタリアンジェラート | Coffee Jelly with Italian Gelato | 意大利冰激淋配咖啡果冻 | 319 | 350 | 165 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 |
-| 3301 | 生ビール キリン一番搾り　ジョッキ |  |  | 364 | 400 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | true | 🍺 |
-| 3302 | 生ビール キリン一番搾り　グラスビール |  |  | 273 | 300 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | true | 🍺 |
-| 3303 | ノンアルコール アサヒドライゼロ |  |  | 228 | 250 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | false | 🍺 |
-| 3304 | サワー キリン氷結シチリア産レモン |  |  | 319 | 350 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | true | 🍺 |
-| 3401 | グラスワイン (120ml)　赤 |  |  | 91 | 100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 |
-| 3402 | グラスワイン (120ml)　白 |  |  | 91 | 100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 |
-| 3403 | デカンタ (250ml)　赤 |  |  | 182 | 200 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 |
-| 3404 | デカンタ (250ml)　白 |  |  | 182 | 200 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 |
-| 3405 | デカンタ (500ml)　赤 |  |  | 364 | 400 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 |
-| 3406 | デカンタ (500ml)　白 |  |  | 364 | 400 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 |
-| 3407 | マグナム (1500ml)　赤 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3408 | マグナム (1500ml)　白 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3412 | ランブルスコロゼ【(ロゼ・発泡)甘口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3413 | ドンラファエロ【(白・発泡)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3414 | ランブルスコセッコ【(赤・発泡)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3415 | ベルデッキオ【(白)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3416 | キャンティ【(赤)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3419 | キャンティ ルフィナ リゼルバ【(赤)辛口】 |  |  | 2000 | 2200 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 |
-| 3901 | ティラミス　クラシコ | Tiramisu | 提拉米苏经典系列 | 273 | 300 | 229 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🧁 |
-| 3904 | ジェラート＆シナモンプチフォッカ | Petit Focaccias with Cinamon Sugar & Italian Gelato | 肉桂糖迷你香草面包配意大利冰激淋 | 410 | 450 | 372 | 0.9 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 |
-| 3905 | イタリアンジェラート | Italian Gelato | 意大利冰激淋 | 228 | 250 | 121 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 |
-| 3906 | イタリアンプリン | Italian Cream Caramel | 意大利布丁 | 228 | 250 | 216 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍮 |
-| 3907 | チョコレートケーキ | Chocolate Cake | 巧克力蛋糕 | 273 | 300 | 166 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍰 |
-| 3912 | プリンとティラミス　クラシコの盛合せ | Tiramisu & Italian Cream Caramel | 布丁配提拉米苏 | 455 | 500 | 445 | 0.2 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍮 |
-| 3913 | トリフアイスクリーム | Ice Cream Truffle | 松露冰激淋 | 319 | 350 | 164 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 |
-| 3915 | コーヒーゼリー＆イタリアンジェラート | Coffee Jelly with Italian Gelato | 意大利冰激淋配咖啡果冻 | 319 | 350 | 165 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 |
-| 4301 | トッピング半熟卵 | Coddled Egg for Topping | 加半熟蛋 | 46 | 50 | 83 | 0.2 | グランド | Grand Menu | 主 | トッピング | false | 🥚 |
-| 4304 | 野菜ペースト | Vegetable Paste | 蔬菜酱 | 91 | 100 | 72 | 0.3 | グランド | Grand Menu | 主 | トッピング | false | 🥗 |
-| 4307 | トッピング粉チーズ | Table Cheese | 加芝士粉（摩拉維並干酪） | 91 | 100 | 91 | 0.6 | グランド | Grand Menu | 主 | トッピング | false | 🧀 |
-| 5101 | セットドリンクバー | Drink Bar (When Ordered with Food) | 畅饮吧（畅饮吧套餐） | 182 | 200 | 0 | 0.0 | グランド | Grand Menu | 主 | ドリンクバー | false | 🥤 |
-| 5102 | キッズドリンクバー | Drink Bar (Kids) | 畅饮吧（儿童） | 91 | 100 | 0 | 0.0 | キッズ | Kids | 孩子们 | ドリンクバー | false | 🥤 |
-| 5103 | ドリンクバー単品 | Drink Bar (Only) | 畅饮吧（單品） | 273 | 300 | 0 | 0.0 | グランド | Grand Menu | 主 | ドリンクバー | false | 🥤 |
+| id | name | name_en | name_zh | price | price_with_tax | calorie | salt | category | category_en | category_zh | genre | is_alcohol | icon | pre_id |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 1202 | 小エビのサラダ | Shrimp Salad | 小甜虾沙拉 | 319 | 350 | 192 | 1.5 | グランド | Grand Menu | 主 | サラダ | false | 🍤 | SA02 |
+| 1205 | わかめのサラダ | Seaweed Salad | 海藻沙拉 | 319 | 350 | 174 | 2.9 | グランド | Grand Menu | 主 | サラダ | false | 🥗 | SA05 |
+| 1207 | モッツァレラのサラダ | Green Salad with Buffalo Mozzarella Cheese | 水牛马苏里拉芝士蔬菜沙拉 | 364 | 400 | 243 | 0.6 | グランド | Grand Menu | 主 | サラダ | false | 🥗 | SA07 |
+| 1208 | グリーンサラダ | Green Salad | 绿色的沙拉 | 319 | 350 | 166 | 0.7 | グランド | Grand Menu | 主 | サラダ | false | 🥗 | SA08 |
+| 1209 | チキンのサラダ | Chicken Salad | 鸡肉沙拉 | 319 | 350 | 224 | 1.3 | グランド | Grand Menu | 主 | サラダ | false | 🥗 | SA03 |
+| 1301 | コーンクリームスープ | Creamy Corn Soup | 奶油玉米浓汤 | 137 | 150 | 154 | 1.0 | グランド | Grand Menu | 主 | スープ | false | 🥣 | SU01 |
+| 1305 | 田舎風ミネストローネ | Country-style Minestrone | 田园风蔬菜汤 | 273 | 300 | 227 | 3.0 | グランド | Grand Menu | 主 | スープ | false | 🥣 | SU05 |
+| 1307 | たまねぎのズッパ | Onion soup, Zuppa | 洋葱面包汤 | 273 | 300 | 228 | 2.0 | グランド | Grand Menu | 主 | スープ | false | 🥣 | SU07 |
+| 1401 | 辛味チキン | Spicy Grilled Chicken | 香辣鸡翅 | 273 | 300 | 295 | 1.8 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍗 | AA01 |
+| 1402 | アロスティチーニ（ラムの串焼き） | Arrosticini (Lamb skewers) | 意式羊肉串（烤羊肉串） | 364 | 400 | 224 | 0.6 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍢 | AA02 |
+| 1403 | ほうれん草のソテー | Sauteed Spinach（Salt Oil Sauce） | 炖煮菠菜（盐油酱） | 182 | 200 | 223 | 1.2 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥬 | AA03 |
+| 1404 | ポップコーンシュリンプ | Popcorn Shrimp | 炸小甜虾 | 273 | 300 | 234 | 1.2 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍤 | AA04 |
+| 1405 | エスカルゴのオーブン焼き | Grilled Escargots | 蒜香焗蜗牛 | 364 | 400 | 220 | 1.3 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥘 | AA05 |
+| 1406 | 小エビのカクテル | Shrimp with "SAIZERIYA" Dressing | 虾佐“SAIZERIYA”酱汁 | 255 | 280 | 126 | 2.3 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍤 | AA06 |
+| 1407 | チョリソー（辛味ソーセージ） | Grilled Spicy Sausages | 口利左香肠（辣猪肉香肠） | 364 | 400 | 425 | 2.9 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🌭 | AA07 |
+| 1408 | 蒸し鶏の香味ソース | Chicken with Flavored Vegetable Sauce（Limited to some stores） | 鸡肉蔬菜酱（限部分店鋪） | 255 | 280 | 192 | 2.4 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🐔 | AA08 |
+| 1410 | ムール貝のガーリック焼き | Grilled Mussels with Vegetable Salsa | 蒜香烤蛤蜊 | 364 | 400 | 170 | 1.4 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🦪 | AA10 |
+| 1411 | アスパラガスの温サラダ | Asparagus with  Cheese  | 芦笋配山核桃奶酪 | 273 | 300 | 80 | 0.7 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥗 | AA09 |
+| 1413 | 爽やかにんじんサラダ | Refreshing Carrot Salad | 爽口胡萝卜沙拉 | 182 | 200 | 93 | 0.9 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥕 | AA13 |
+| 1414 | モッツァレラトマト | Buffalo Mozzarella Cheese &  Tomato | 布法罗马苏里拉奶酪和番茄 | 391 | 430 | 255 | 0.2 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍅 | AA14 |
+| 1415 | カリッとポテト | Crispy Potatoes | 酥烤马铃薯 | 255 | 280 | 389 | 2.1 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🥔 | AA15 |
+| 1422 | ハモン・セラーノ | Jamon Serrano | 火腿塞拉诺 | 291 | 320 | 39 | 0.9 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍖 | AA22 |
+| 1423 | 生ハムとバッファローモッツァレラの盛合せ | Jamon Serrano &  Buffalo Mozzarella Cheese | 火腿塞拉诺和水牛马苏里拉奶酪 | 455 | 500 | 146 | 1.0 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🧀 |  |
+| 1425 | 柔らか青豆の温サラダ | Green Peas with  Cheese & Egg | 鲜嫩青豆加佩科里诺干酪温色拉 | 182 | 200 | 216 | 1.4 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🫛 | AA06 |
+| 1452 | アロスティチーニ（ラムの串焼き）(Wサイズ) | Arrosticini (Lamb skewers) | 意式羊肉串（烤羊肉串） | 728 | 800 | 0 | 0.0 | グランド | Grand Menu | 主 | 前菜・おつまみ | false | 🍢 | AA52 |
+| 2101 | ミラノ風ドリア | Meat Sauce Doria | 米兰风肉酱多利亚饭 | 273 | 300 | 521 | 2.5 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 | DG01 |
+| 2103 | 半熟卵のミラノ風ドリア | Meat Sauce & Coddled Egg Doria | 半熟蛋配米兰风多利亚肉酱饭 | 319 | 350 | 604 | 2.7 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 | DG03 |
+| 2106 | タラコとエビのドリア | Doria with “TARAKO”Sauce & Shrimp | 鳕鱼籽虾焗饭 | 364 | 400 | 578 | 2.8 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 | DG06 |
+| 2108 | 焼チーズ ミラノ風ドリア | Doria with Meat Sauce & Cheese | 多利亚肉酱和奶酪 | 319 | 350 | 652 | 2.9 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 | DG08 |
+| 2109 | エビとタラコのクリームグラタン（全粒粉） | Gratin with “TARAKO”Sauce & Shrimp | TARAKO醬蝦焗烤 | 391 | 400 | 481 | 2.1 | グランド | Grand Menu | 主 | ドリア&グラタン | false | 🥘 |  |
+| 2203 | バッファローモッツァレラのマルゲリータピザ | Pizza with  Buffalo Mozzarella Cheese | 水牛马苏里拉披萨 | 364 | 400 | 544 | 2.4 | グランド | Grand Menu | 主 | ピザ | false | 🍕 | PZ02 |
+| 2204 | 野菜ときのこのピザ | Pizza with Mushrooms & Vegetable Salsa | 蔬菜蘑菇比萨 | 364 | 400 | 593 | 3.2 | グランド | Grand Menu | 主 | ピザ | false | 🍕 | PZ04 |
+| 2206 | たっぷりコーンのピザ | Corn Pizza | 足量甜玉米比萨 | 364 | 400 | 624 | 2.6 | グランド | Grand Menu | 主 | ピザ | false | 🍕 | PZ06 |
+| 2208 | ソーセージピザ | Sausage Pizza | 香肠比萨 | 364 | 400 | 710 | 4.1 | グランド | Grand Menu | 主 | ピザ | false | 🍕 | PZ08 |
+| 2303 | ペペロンチーノ | Spaghetti Peperoncino | 香辣意面 | 273 | 300 | 582 | 1.9 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA03 |
+| 2304 | パルマ風スパゲティ | Spaghetti with tomato＆pancetta | 番茄培根意大利面 | 364 | 400 | 753 | 3.1 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA04 |
+| 2305 | カルボナーラ | Spaghetti Carbonara | 奶油培根意面 | 455 | 500 | 799 | 3.1 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA05 |
+| 2306 | ミートソースボロニア風 | Spaghetti Meat Sauce | 意大利肉酱面 | 364 | 400 | 604 | 3.6 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA02 |
+| 2310 | スープ入り塩味ボンゴレ | Spaghetti"VONGOLE" | 意大利面“VONGOLE” | 455 | 500 | 872 | 2.5 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA10 |
+| 2316 | 半熟卵のミートソースボロニア風 | Spaghetti Meat Sauce with Coddled Egg | 半熟蛋配意大利肉酱面 | 410 | 450 | 673 | 3.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA12 |
+| 2317 | 半熟卵のぺペロンチーノ | Spaghetti Peperoncino with soft-boiled egg | 半熟蛋配香辣意面 | 319 | 350 | 665 | 2.1 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA17 |
+| 2320 | 小エビのタラコソース | Spaghetti “TARAKO” Sauce with Shrimp | 意大利面“TARAKO”虾酱 | 491 | 540 | 594 | 2.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA20 |
+| 2321 | きのことほうれん草のクリームスパゲッティ | Spaghetti with spinach and mushroom cream | 菠菜蘑菇奶油意大利面 | 546 | 600 | 856 | 3.7 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |  |
+| 2325 | ペンネアラビアータ（全粒粉） | Whole wheat penne arrabbiata | 全麥通心粉 | 391 | 400 | 444 | 2.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 | PA25 |
+| 2328 | イカの墨入りセピアソース | Spaghetti al Nero di Seppia | 墨鱼汁海鲜意面 | 455 | 500 | 603 | 1.8 | グランド | Grand Menu | 主 | パスタ | false | 🍝 |  |
+| 2402 | 若鶏のディアボラ風 | Grilled Chicken with Chopped Vegetable Sauce | 意式恶魔风嫩鸡排 | 455 | 500 | 673 | 2.8 | グランド | Grand Menu | 主 | ハンバーグ | false | 🐔 | MT02 |
+| 2403 | イタリアンハンバーグ | Italian Hamburg Steak | 意大利风味汉堡牛排 | 455 | 500 | 670 | 3.0 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 | MT03 |
+| 2404 | 柔らかチキンのチーズ焼き | Grilled Chicken with Cheese | 意大利风芝士鸡排 | 455 | 500 | 725 | 2.8 | グランド | Grand Menu | 主 | ハンバーグ | false | 🐔 | MT04 |
+| 2406 | ハンバーグステーキ | Hamburg Steak(Demi-Glace Sauce) | 汉堡牛排(半冰酱) | 364 | 400 | 571 | 2.5 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 | MT01 |
+| 2407 | ディアボラ風ハンバーグ | Hamburg Steak with Chopped Vegetable Sauce | 意式恶魔风汉堡牛排 | 455 | 500 | 618 | 3.1 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 | MT07 |
+| 2413 | ラムと野菜のグリル | Grilled Lamb ＆ Vegetables | 烤羊肉＆蔬菜 | 791 | 870 | 371 | 2.4 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 | MT13 |
+| 2418 | ミックスグリル | Mixed Grill | 混合烧烤 | 591 | 650 | 779 | 3.6 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |  |
+| 3101 | ライス | Rice | 米饭 | 137 | 150 | 303 | 0.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🍚 | RP01 |
+| 3102 | ラージライス | Large Rice | 米饭 | 182 | 200 | 303 | 0.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🍚 | RP02 |
+| 3103 | スモールライス | Small Rice | 米饭 | 91 | 100 | 303 | 0.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🍚 | RP03 |
+| 3104 | シナモンプチフォッカ | Petit Focaccia with Cinnamon Sugar | 肉桂糖迷你香草面包 | 182 | 200 | 246 | 0.8 | グランド | Grand Menu | 主 | ライス・パン | false | 🍞 | RP04 |
+| 3106 | プチフォッカ | Petit Focaccias | 迷你香草面包 | 137 | 150 | 214 | 0.8 | グランド | Grand Menu | 主 | ライス・パン | false | 🍞 | RP06 |
+| 3108 | ミニフィセル | Mini Ficelle | 迷你法式面包 | 137 | 150 | 189 | 1.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🥖 | RP08 |
+| 3109 | ガーリックトースト | Garlic Toast | 蒜香烤面包 | 182 | 200 | 245 | 1.1 | グランド | Grand Menu | 主 | ライス・パン | false | 🥖 | RP09 |
+| 3201 | ティラミス　クラシコ | Tiramisu | 提拉米苏经典系列 | 273 | 300 | 229 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🧁 | DE01 |
+| 3204 | ジェラート＆シナモンプチフォッカ | Petit Focaccias with Cinamon Sugar & Italian Gelato | 肉桂糖迷你香草面包配意大利冰激淋 | 410 | 450 | 372 | 0.9 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 | DE04 |
+| 3205 | イタリアンジェラート | Italian Gelato | 意大利冰激淋 | 228 | 250 | 121 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 | DE05 |
+| 3206 | イタリアンプリン | Italian Cream Caramel | 意大利布丁 | 228 | 250 | 216 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍮 | DE06 |
+| 3207 | チョコレートケーキ | Chocolate Cake | 巧克力蛋糕 | 273 | 300 | 166 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍰 | DE07 |
+| 3212 | プリンとティラミス　クラシコの盛合せ | Tiramisu & Italian Cream Caramel | 布丁配提拉米苏 | 455 | 500 | 445 | 0.2 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍮 | DE12 |
+| 3213 | トリフアイスクリーム | Ice Cream Truffle | 松露冰激淋 | 319 | 350 | 164 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 | DE13 |
+| 3215 | コーヒーゼリー＆イタリアンジェラート | Coffee Jelly with Italian Gelato | 意大利冰激淋配咖啡果冻 | 319 | 350 | 165 | 0.1 | グランド | Grand Menu | 主 | デザート (すぐに) | false | 🍨 | DE15 |
+| 3301 | 生ビール キリン一番搾り　ジョッキ |  |  | 364 | 400 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | true | 🍺 | BR01 |
+| 3302 | 生ビール キリン一番搾り　グラスビール |  |  | 273 | 300 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | true | 🍺 | BR02 |
+| 3303 | ノンアルコール アサヒドライゼロ |  |  | 228 | 250 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | false | 🍺 |  |
+| 3304 | サワー キリン氷結シチリア産レモン |  |  | 319 | 350 | 0 | 0.0 | グランド | Grand Menu | 主 | ビール・サワー・ノンアルコール | true | 🍺 | BR04 |
+| 3401 | グラスワイン (120ml)　赤 |  |  | 91 | 100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 | WN01 |
+| 3402 | グラスワイン (120ml)　白 |  |  | 91 | 100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 | WN02 |
+| 3403 | デカンタ (250ml)　赤 |  |  | 182 | 200 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 | WN03 |
+| 3404 | デカンタ (250ml)　白 |  |  | 182 | 200 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 | WN04 |
+| 3405 | デカンタ (500ml)　赤 |  |  | 364 | 400 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 | WN05 |
+| 3406 | デカンタ (500ml)　白 |  |  | 364 | 400 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍷 | WN06 |
+| 3407 | マグナム (1500ml)　赤 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN07 |
+| 3408 | マグナム (1500ml)　白 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN08 |
+| 3412 | ランブルスコロゼ【(ロゼ・発泡)甘口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN12 |
+| 3413 | ドンラファエロ【(白・発泡)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN13 |
+| 3414 | ランブルスコセッコ【(赤・発泡)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN14 |
+| 3415 | ベルデッキオ【(白)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN15 |
+| 3416 | キャンティ【(赤)辛口】 |  |  | 1000 | 1100 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN16 |
+| 3419 | キャンティ ルフィナ リゼルバ【(赤)辛口】 |  |  | 2000 | 2200 | 0 | 0.0 | グランド | Grand Menu | 主 | ワイン | true | 🍾 | WN19 |
+| 3901 | ティラミス　クラシコ | Tiramisu | 提拉米苏经典系列 | 273 | 300 | 229 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🧁 | DE01 |
+| 3904 | ジェラート＆シナモンプチフォッカ | Petit Focaccias with Cinamon Sugar & Italian Gelato | 肉桂糖迷你香草面包配意大利冰激淋 | 410 | 450 | 372 | 0.9 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 | DE04 |
+| 3905 | イタリアンジェラート | Italian Gelato | 意大利冰激淋 | 228 | 250 | 121 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 | DE05 |
+| 3906 | イタリアンプリン | Italian Cream Caramel | 意大利布丁 | 228 | 250 | 216 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍮 | DE06 |
+| 3907 | チョコレートケーキ | Chocolate Cake | 巧克力蛋糕 | 273 | 300 | 166 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍰 | DE07 |
+| 3912 | プリンとティラミス　クラシコの盛合せ | Tiramisu & Italian Cream Caramel | 布丁配提拉米苏 | 455 | 500 | 445 | 0.2 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍮 | DE12 |
+| 3913 | トリフアイスクリーム | Ice Cream Truffle | 松露冰激淋 | 319 | 350 | 164 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 | DE13 |
+| 3915 | コーヒーゼリー＆イタリアンジェラート | Coffee Jelly with Italian Gelato | 意大利冰激淋配咖啡果冻 | 319 | 350 | 165 | 0.1 | グランド | Grand Menu | 主 | デザート (あとで) | false | 🍨 | DE15 |
+| 4301 | トッピング半熟卵 | Coddled Egg for Topping | 加半熟蛋 | 46 | 50 | 83 | 0.2 | グランド | Grand Menu | 主 | トッピング | false | 🥚 | TP01 |
+| 4304 | 野菜ペースト | Vegetable Paste | 蔬菜酱 | 91 | 100 | 72 | 0.3 | グランド | Grand Menu | 主 | トッピング | false | 🥗 | TP04 |
+| 4307 | トッピング粉チーズ | Table Cheese | 加芝士粉（摩拉維並干酪） | 91 | 100 | 91 | 0.6 | グランド | Grand Menu | 主 | トッピング | false | 🧀 | TP07 |
+| 5101 | セットドリンクバー | Drink Bar (When Ordered with Food) | 畅饮吧（畅饮吧套餐） | 182 | 200 | 0 | 0.0 | グランド | Grand Menu | 主 | ドリンクバー | false | 🥤 | DB01 |
+| 5102 | キッズドリンクバー | Drink Bar (Kids) | 畅饮吧（儿童） | 91 | 100 | 0 | 0.0 | キッズ | Kids | 孩子们 | ドリンクバー | false | 🥤 | DB02 |
+| 5103 | ドリンクバー単品 | Drink Bar (Only) | 畅饮吧（單品） | 273 | 300 | 0 | 0.0 | グランド | Grand Menu | 主 | ドリンクバー | false | 🥤 | DB03 |
