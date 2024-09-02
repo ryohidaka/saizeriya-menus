@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.6.0...v0.7.0) (2024-09-02)
+
+
+### Features
+
+* データ出力処理のpre_id対応を追加 ([87d355a](https://github.com/ryohidaka/saizeriya-menus/commit/87d355af36c9dd47e3a996d4e8c3a0a55017c9ca))
+
 ## [0.6.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.5.0...v0.6.0) (2024-09-02)
 
 
