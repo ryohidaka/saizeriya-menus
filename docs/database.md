@@ -70,17 +70,21 @@ erDiagram
 
 ### 商品マスタ (`menus`)
 
-| KEY 名           | 説明                        | データ型  | サンプル         |
-| ---------------- | --------------------------- | --------- | ---------------- |
-| `id`             | メニュー ID                 | `INTEGER` | `1202`           |
-| `name`           | メニュー名                  | `TEXT`    | `小エビのサラダ` |
-| `name_en`        | メニュー名(英語)            | `TEXT`    | `Shrimp Salad`   |
-| `name_zh`        | メニュー名(中国語)          | `TEXT`    | `小甜虾沙拉`     |
-| `price`          | 税抜価格                    | `INTEGER` | `319`            |
-| `price_with_tax` | 税込価格                    | `INTEGER` | `350`            |
-| `calorie`        | エネルギー(カロリー) (kcal) | `INTEGER` | `192`            |
-| `salt`           | 食塩相当量 (g)              | `INTEGER` | `1.5`            |
-| `category_id`    | カテゴリ ID                 | `INTEGER` | `1`              |
-| `genre_id`       | ジャンル ID                 | `INTEGER` | `12`             |
-| `icon_id`        | アイコン ID                 | `INTEGER` | `6`              |
-| `pre_id`         | 旧メニュー ID               | `TEXT`    | `SA02`           |
+| KEY 名            | 説明                                | データ型  | サンプル         |
+| ----------------- | ----------------------------------- | --------- | ---------------- |
+| `id`              | メニュー ID                         | `INTEGER` | `1202`           |
+| `name`            | メニュー名                          | `TEXT`    | `小エビのサラダ` |
+| `name_en`         | メニュー名(英語)                    | `TEXT`    | `Shrimp Salad`   |
+| `name_zh`         | メニュー名(中国語)                  | `TEXT`    | `小甜虾沙拉`     |
+| `price`           | 税抜価格                            | `INTEGER` | `319`            |
+| `price_with_tax`  | 税込価格                            | `INTEGER` | `350`            |
+| `calorie`         | エネルギー(カロリー) (kcal)         | `INTEGER` | `192`            |
+| `salt`            | 食塩相当量 (g)                      | `INTEGER` | `1.5`            |
+| `category_id`     | カテゴリ ID                         | `INTEGER` | `1`              |
+| `genre_id`        | ジャンル ID                         | `INTEGER` | `12`             |
+| `icon_id`         | アイコン ID                         | `INTEGER` | `6`              |
+| `pre_id`          | 旧メニュー ID                       | `TEXT`    | `SA02`           |
+| `is_metropolitan` | 北海道,埼玉,東京,千葉対象フラグ     | `INTEGER` | `1`              |
+| `is_urban`        | 神奈川,静岡愛知,東京,千葉対象フラグ | `INTEGER` | `1`              |
+| `is_west`         | 愛知以西対象フラグ                  | `INTEGER` | `1`              |
+| `is_east`         | 東北北陸関東対象フラグ              | `INTEGER` | `1`              |
