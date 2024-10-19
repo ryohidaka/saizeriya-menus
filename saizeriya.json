@@ -1492,6 +1492,27 @@
       "is_east": true
     },
     {
+      "id": 3306,
+      "name": "グラッパ (30ml)",
+      "name_en": "",
+      "name_zh": "",
+      "price": 273,
+      "price_with_tax": 300,
+      "calorie": 0,
+      "salt": 0,
+      "category": "グランド",
+      "category_en": "Grand Menu",
+      "category_zh": "主",
+      "genre": "ビール・サワー・ノンアルコール",
+      "is_alcohol": true,
+      "icon": "🍺",
+      "pre_id": "",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
+    },
+    {
       "id": 3401,
       "name": "グラスワイン (120ml)　赤",
       "name_en": "",
@@ -2080,5 +2101,5 @@
       "is_east": true
     }
   ],
-  "last_updated": "2024-10-19T16:01:58Z"
+  "last_updated": "2024-10-19T16:27:28Z"
 }
