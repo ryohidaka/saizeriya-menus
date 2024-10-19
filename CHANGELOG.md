@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.8.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.7.0...v0.8.0) (2024-10-19)
+
+
+### Features
+
+* データ出力処理に地域別フラグ対応を追加 ([6e091d7](https://github.com/ryohidaka/saizeriya-menus/commit/6e091d721cc0dae1f1517c68537c97cca1eb372e))
+* メニュー一覧のis_eastのデータを登録 ([987640c](https://github.com/ryohidaka/saizeriya-menus/commit/987640cbfd2f7ca2f3c8af377a502d8b8cb712b9))
+* メニュー一覧のis_metropolitanのデータを登録 ([f9d4232](https://github.com/ryohidaka/saizeriya-menus/commit/f9d4232a976bad44d4ba628842e155af35927d98))
+* メニュー一覧のis_urbanのデータを登録 ([aa6e658](https://github.com/ryohidaka/saizeriya-menus/commit/aa6e658670a5453bd9322c9c68a9dfe3a146e307))
+* メニュー一覧のis_westのデータを登録 ([c4bdec0](https://github.com/ryohidaka/saizeriya-menus/commit/c4bdec081a2a6a94eb174837b9ed1b4c65aa77dc))
+* 地域別フラグを追加 ([181ce5a](https://github.com/ryohidaka/saizeriya-menus/commit/181ce5ae6e915bef78ef8b48ab9c3f5b24bdfa3a))
+
 ## [0.7.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.6.0...v0.7.0) (2024-09-02)
 
 
