@@ -50,6 +50,10 @@ func SaveAsCSV(data []Menu, outputPath string) error {
 			fmt.Sprintf("%t", menu.IsAlcohol),
 			menu.Icon,
 			menu.PreID,
+			fmt.Sprintf("%t", menu.IsMetropolitan),
+			fmt.Sprintf("%t", menu.IsUrban),
+			fmt.Sprintf("%t", menu.IsWest),
+			fmt.Sprintf("%t", menu.IsEast),
 		}
 
 		// 行データをCSVに書き込む
