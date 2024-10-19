@@ -20,9 +20,12 @@ id,name,name_en,name_zh,price,price_with_tax,calorie,salt,category,category_en,c
 1413,爽やかにんじんサラダ,Refreshing Carrot Salad,爽口胡萝卜沙拉,182,200,93,0.9,グランド,Grand Menu,主,前菜・おつまみ,false,🥕,AA13,true,true,true,true
 1414,モッツァレラトマト,Buffalo Mozzarella Cheese &  Tomato,布法罗马苏里拉奶酪和番茄,391,430,255,0.2,グランド,Grand Menu,主,前菜・おつまみ,false,🍅,AA14,false,false,false,true
 1415,カリッとポテト,Crispy Potatoes,酥烤马铃薯,255,280,389,2.1,グランド,Grand Menu,主,前菜・おつまみ,false,🥔,AA15,false,false,true,false
+1416,ポテトのグリル,Hashed Potato,,273,300,0,0.0,グランド,Grand Menu,主,前菜・おつまみ,false,🥔,,true,true,false,true
+1417,バッファローモッツァレラのカプレーゼ,Buffalo Mozzarella Cheese &  Tomato,,391,430,0,0.0,グランド,Grand Menu,主,前菜・おつまみ,false,🍅,,true,true,true,false
 1422,ハモン・セラーノ,Jamon Serrano,火腿塞拉诺,291,320,39,0.9,グランド,Grand Menu,主,前菜・おつまみ,false,🍖,AA22,true,true,true,true
 1423,生ハムとバッファローモッツァレラの盛合せ,Jamon Serrano &  Buffalo Mozzarella Cheese,火腿塞拉诺和水牛马苏里拉奶酪,455,500,146,1.0,グランド,Grand Menu,主,前菜・おつまみ,false,🧀,,true,true,true,true
 1425,柔らか青豆の温サラダ,Green Peas with  Cheese & Egg,鲜嫩青豆加佩科里诺干酪温色拉,182,200,216,1.4,グランド,Grand Menu,主,前菜・おつまみ,false,🫛,AA06,true,true,true,true
+1435,スイートコーン,Sweet Corn,,182,200,0,0.0,グランド,Grand Menu,主,前菜・おつまみ,false,🥗,,true,true,true,true
 1452,アロスティチーニ（ラムの串焼き）(Wサイズ),Arrosticini (Lamb skewers),意式羊肉串（烤羊肉串）,728,800,0,0.0,グランド,Grand Menu,主,前菜・おつまみ,false,🍢,AA52,true,true,true,true
 2101,ミラノ風ドリア,Meat Sauce Doria,米兰风肉酱多利亚饭,273,300,521,2.5,グランド,Grand Menu,主,ドリア&グラタン,false,🥘,DG01,true,true,true,true
 2103,半熟卵のミラノ風ドリア,Meat Sauce & Coddled Egg Doria,半熟蛋配米兰风多利亚肉酱饭,319,350,604,2.7,グランド,Grand Menu,主,ドリア&グラタン,false,🥘,DG03,true,true,true,true
@@ -99,3 +102,5 @@ id,name,name_en,name_zh,price,price_with_tax,calorie,salt,category,category_en,c
 5101,セットドリンクバー,Drink Bar (When Ordered with Food),畅饮吧（畅饮吧套餐）,182,200,0,0.0,グランド,Grand Menu,主,ドリンクバー,false,🥤,DB01,true,true,true,true
 5102,キッズドリンクバー,Drink Bar (Kids),畅饮吧（儿童）,91,100,0,0.0,キッズ,Kids,孩子们,ドリンクバー,false,🥤,DB02,true,true,true,true
 5103,ドリンクバー単品,Drink Bar (Only),畅饮吧（單品）,273,300,0,0.0,グランド,Grand Menu,主,ドリンクバー,false,🥤,DB03,true,true,true,true
+5305,サイゼリヤ　ドレッシング (500ml),,,463,500,0,0.0,グランド,Grand Menu,主,ドレッシング・オリーブオイル,false,🧂,,true,true,true,true
+5306,エクストラ・バージン・オリーブオイル (500ml),,,1112,1200,0,0.0,グランド,Grand Menu,主,ドレッシング・オリーブオイル,false,🧂,,true,true,true,true
