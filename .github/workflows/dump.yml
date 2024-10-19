@@ -21,7 +21,7 @@ jobs:
           output: "db/dump.sql"
 
       - name: Commit and push changes
-        uses: ryohidaka/action-commit-push@v0.3.0
+        uses: ryohidaka/action-commit-push@v0.3.1
         with:
           files: "db/dump.sql"
           commit-message: "chore: Update dump file"
