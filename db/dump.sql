@@ -67,6 +67,7 @@ INSERT INTO icons VALUES(27,'🍾');
 INSERT INTO icons VALUES(28,'🧁');
 INSERT INTO icons VALUES(29,'🥚');
 INSERT INTO icons VALUES(30,'🥤');
+INSERT INTO icons VALUES(31,'🧂');
 CREATE TABLE IF NOT EXISTS "menus" (
     id INTEGER NOT NULL UNIQUE,
     name TEXT NOT NULL,
@@ -106,12 +107,12 @@ INSERT INTO menus VALUES(1411,'アスパラガスの温サラダ','Asparagus wit
 INSERT INTO menus VALUES(1413,'爽やかにんじんサラダ','Refreshing Carrot Salad','爽口胡萝卜沙拉',182,200,93,0.9000000000000000222,1,14,0,11,'AA13',1,1,1,1);
 INSERT INTO menus VALUES(1414,'モッツァレラトマト','Buffalo Mozzarella Cheese &  Tomato','布法罗马苏里拉奶酪和番茄',391,430,255,0.2000000000000000111,1,14,0,12,'AA14',0,0,0,1);
 INSERT INTO menus VALUES(1415,'カリッとポテト','Crispy Potatoes','酥烤马铃薯',255,280,389,2.1000000000000000888,1,14,0,13,'AA15',0,0,1,0);
-INSERT INTO menus VALUES(1416,'ポテトのグリル','Hashed Potato',NULL,273,300,NULL,NULL,1,14,0,NULL,'',1,1,0,1);
-INSERT INTO menus VALUES(1417,'バッファローモッツァレラのカプレーゼ','Buffalo Mozzarella Cheese &  Tomato',NULL,391,430,NULL,NULL,1,14,0,NULL,'',1,1,1,0);
+INSERT INTO menus VALUES(1416,'ポテトのグリル','Hashed Potato',NULL,273,300,NULL,NULL,1,14,0,13,'',1,1,0,1);
+INSERT INTO menus VALUES(1417,'バッファローモッツァレラのカプレーゼ','Buffalo Mozzarella Cheese &  Tomato',NULL,391,430,NULL,NULL,1,14,0,12,'',1,1,1,0);
 INSERT INTO menus VALUES(1422,'ハモン・セラーノ','Jamon Serrano','火腿塞拉诺',291,320,39,0.9000000000000000222,1,14,0,14,'AA22',1,1,1,1);
 INSERT INTO menus VALUES(1423,'生ハムとバッファローモッツァレラの盛合せ','Jamon Serrano &  Buffalo Mozzarella Cheese','火腿塞拉诺和水牛马苏里拉奶酪',455,500,146,1,1,14,0,15,NULL,1,1,1,1);
 INSERT INTO menus VALUES(1425,'柔らか青豆の温サラダ','Green Peas with  Cheese & Egg','鲜嫩青豆加佩科里诺干酪温色拉',182,200,216,1.3999999999999999111,1,14,0,16,'AA06',1,1,1,1);
-INSERT INTO menus VALUES(1435,'スイートコーン','Sweet Corn','',182,200,'','',1,14,0,NULL,'',1,0,0,0);
+INSERT INTO menus VALUES(1435,'スイートコーン','Sweet Corn','',182,200,NULL,NULL,1,14,0,1,'',1,1,1,1);
 INSERT INTO menus VALUES(1452,'アロスティチーニ（ラムの串焼き）(Wサイズ)','Arrosticini (Lamb skewers)','意式羊肉串（烤羊肉串）',728,800,NULL,NULL,1,14,0,4,'AA52',1,1,1,1);
 INSERT INTO menus VALUES(2101,'ミラノ風ドリア','Meat Sauce Doria','米兰风肉酱多利亚饭',273,300,521,2.5,1,21,0,7,'DG01',1,1,1,1);
 INSERT INTO menus VALUES(2103,'半熟卵のミラノ風ドリア','Meat Sauce & Coddled Egg Doria','半熟蛋配米兰风多利亚肉酱饭',319,350,604,2.7000000000000001776,1,21,0,7,'DG03',1,1,1,1);
@@ -188,9 +189,9 @@ INSERT INTO menus VALUES(4307,'トッピング粉チーズ','Table Cheese','加�
 INSERT INTO menus VALUES(5101,'セットドリンクバー','Drink Bar (When Ordered with Food)','畅饮吧（畅饮吧套餐）',182,200,NULL,NULL,1,51,0,30,'DB01',1,1,1,1);
 INSERT INTO menus VALUES(5102,'キッズドリンクバー','Drink Bar (Kids)','畅饮吧（儿童）',91,100,NULL,NULL,4,51,0,30,'DB02',1,1,1,1);
 INSERT INTO menus VALUES(5103,'ドリンクバー単品','Drink Bar (Only)','畅饮吧（單品）',273,300,NULL,NULL,1,51,0,30,'DB03',1,1,1,1);
-INSERT INTO menus VALUES(5305,'サイゼリヤ　ドレッシング (500ml)',NULL,NULL,463,500,NULL,NULL,1,53,0,NULL,NULL,1,0,0,0);
-INSERT INTO menus VALUES(5306,'エクストラ・バージン・オリーブオイル (500ml)',NULL,NULL,1112,1200,NULL,NULL,1,53,0,NULL,NULL,1,0,0,0);
+INSERT INTO menus VALUES(5305,'サイゼリヤ　ドレッシング (500ml)',NULL,NULL,463,500,NULL,NULL,1,53,0,31,NULL,1,1,1,1);
+INSERT INTO menus VALUES(5306,'エクストラ・バージン・オリーブオイル (500ml)',NULL,NULL,1112,1200,NULL,NULL,1,53,0,31,NULL,1,1,1,1);
 DELETE FROM sqlite_sequence;
 INSERT INTO sqlite_sequence VALUES('categories',5);
-INSERT INTO sqlite_sequence VALUES('icons',30);
+INSERT INTO sqlite_sequence VALUES('icons',31);
 COMMIT;
