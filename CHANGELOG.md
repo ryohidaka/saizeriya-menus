@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.9.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.8.0...v0.9.0) (2024-10-19)
+
+
+### Features
+
+* 2024年秋に新規追加されたメニューを追加 ([8ac531f](https://github.com/ryohidaka/saizeriya-menus/commit/8ac531f82f027fa7e1fd024965a7592a9a755ebd))
+* 新メニューのアイコンを追加 ([5423197](https://github.com/ryohidaka/saizeriya-menus/commit/54231978e4b5b64511d4a58bb43017a90aedfa2e))
+
 ## [0.8.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.7.0...v0.8.0) (2024-10-19)
 
 
