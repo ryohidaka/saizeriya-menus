@@ -15,7 +15,11 @@
       "genre": "サラダ",
       "is_alcohol": false,
       "icon": "🍤",
-      "pre_id": "SA02"
+      "pre_id": "SA02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1205,
@@ -32,7 +36,11 @@
       "genre": "サラダ",
       "is_alcohol": false,
       "icon": "🥗",
-      "pre_id": "SA05"
+      "pre_id": "SA05",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1207,
@@ -49,7 +57,11 @@
       "genre": "サラダ",
       "is_alcohol": false,
       "icon": "🥗",
-      "pre_id": "SA07"
+      "pre_id": "SA07",
+      "is_metropolitan": false,
+      "is_urban": false,
+      "is_west": false,
+      "is_east": false
     },
     {
       "id": 1208,
@@ -66,7 +78,11 @@
       "genre": "サラダ",
       "is_alcohol": false,
       "icon": "🥗",
-      "pre_id": "SA08"
+      "pre_id": "SA08",
+      "is_metropolitan": false,
+      "is_urban": false,
+      "is_west": false,
+      "is_east": false
     },
     {
       "id": 1209,
@@ -83,7 +99,11 @@
       "genre": "サラダ",
       "is_alcohol": false,
       "icon": "🥗",
-      "pre_id": "SA03"
+      "pre_id": "SA03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1301,
@@ -100,7 +120,11 @@
       "genre": "スープ",
       "is_alcohol": false,
       "icon": "🥣",
-      "pre_id": "SU01"
+      "pre_id": "SU01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1305,
@@ -117,7 +141,11 @@
       "genre": "スープ",
       "is_alcohol": false,
       "icon": "🥣",
-      "pre_id": "SU05"
+      "pre_id": "SU05",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1307,
@@ -134,7 +162,11 @@
       "genre": "スープ",
       "is_alcohol": false,
       "icon": "🥣",
-      "pre_id": "SU07"
+      "pre_id": "SU07",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1401,
@@ -151,7 +183,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🍗",
-      "pre_id": "AA01"
+      "pre_id": "AA01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1402,
@@ -168,7 +204,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🍢",
-      "pre_id": "AA02"
+      "pre_id": "AA02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1403,
@@ -185,7 +225,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🥬",
-      "pre_id": "AA03"
+      "pre_id": "AA03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1404,
@@ -202,7 +246,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🍤",
-      "pre_id": "AA04"
+      "pre_id": "AA04",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1405,
@@ -219,7 +267,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🥘",
-      "pre_id": "AA05"
+      "pre_id": "AA05",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1406,
@@ -236,7 +288,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🍤",
-      "pre_id": "AA06"
+      "pre_id": "AA06",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1407,
@@ -253,7 +309,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🌭",
-      "pre_id": "AA07"
+      "pre_id": "AA07",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1408,
@@ -270,7 +330,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🐔",
-      "pre_id": "AA08"
+      "pre_id": "AA08",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1410,
@@ -287,7 +351,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🦪",
-      "pre_id": "AA10"
+      "pre_id": "AA10",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1411,
@@ -304,7 +372,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🥗",
-      "pre_id": "AA09"
+      "pre_id": "AA09",
+      "is_metropolitan": false,
+      "is_urban": false,
+      "is_west": false,
+      "is_east": false
     },
     {
       "id": 1413,
@@ -321,7 +393,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🥕",
-      "pre_id": "AA13"
+      "pre_id": "AA13",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1414,
@@ -338,7 +414,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🍅",
-      "pre_id": "AA14"
+      "pre_id": "AA14",
+      "is_metropolitan": false,
+      "is_urban": false,
+      "is_west": false,
+      "is_east": true
     },
     {
       "id": 1415,
@@ -355,7 +435,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🥔",
-      "pre_id": "AA15"
+      "pre_id": "AA15",
+      "is_metropolitan": false,
+      "is_urban": false,
+      "is_west": true,
+      "is_east": false
     },
     {
       "id": 1422,
@@ -372,7 +456,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🍖",
-      "pre_id": "AA22"
+      "pre_id": "AA22",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1423,
@@ -389,7 +477,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🧀",
-      "pre_id": ""
+      "pre_id": "",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1425,
@@ -406,7 +498,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🫛",
-      "pre_id": "AA06"
+      "pre_id": "AA06",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 1452,
@@ -423,7 +519,11 @@
       "genre": "前菜・おつまみ",
       "is_alcohol": false,
       "icon": "🍢",
-      "pre_id": "AA52"
+      "pre_id": "AA52",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2101,
@@ -440,7 +540,11 @@
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
       "icon": "🥘",
-      "pre_id": "DG01"
+      "pre_id": "DG01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2103,
@@ -457,7 +561,11 @@
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
       "icon": "🥘",
-      "pre_id": "DG03"
+      "pre_id": "DG03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2106,
@@ -474,7 +582,11 @@
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
       "icon": "🥘",
-      "pre_id": "DG06"
+      "pre_id": "DG06",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2108,
@@ -491,7 +603,11 @@
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
       "icon": "🥘",
-      "pre_id": "DG08"
+      "pre_id": "DG08",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2109,
@@ -508,7 +624,11 @@
       "genre": "ドリア\u0026グラタン",
       "is_alcohol": false,
       "icon": "🥘",
-      "pre_id": ""
+      "pre_id": "",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2203,
@@ -525,7 +645,11 @@
       "genre": "ピザ",
       "is_alcohol": false,
       "icon": "🍕",
-      "pre_id": "PZ02"
+      "pre_id": "PZ02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2204,
@@ -542,7 +666,11 @@
       "genre": "ピザ",
       "is_alcohol": false,
       "icon": "🍕",
-      "pre_id": "PZ04"
+      "pre_id": "PZ04",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2206,
@@ -559,7 +687,11 @@
       "genre": "ピザ",
       "is_alcohol": false,
       "icon": "🍕",
-      "pre_id": "PZ06"
+      "pre_id": "PZ06",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2208,
@@ -576,7 +708,11 @@
       "genre": "ピザ",
       "is_alcohol": false,
       "icon": "🍕",
-      "pre_id": "PZ08"
+      "pre_id": "PZ08",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2303,
@@ -593,7 +729,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA03"
+      "pre_id": "PA03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2304,
@@ -610,7 +750,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA04"
+      "pre_id": "PA04",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2305,
@@ -627,7 +771,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA05"
+      "pre_id": "PA05",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2306,
@@ -644,7 +792,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA02"
+      "pre_id": "PA02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2310,
@@ -661,7 +813,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA10"
+      "pre_id": "PA10",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2316,
@@ -678,7 +834,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA12"
+      "pre_id": "PA12",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2317,
@@ -695,7 +855,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA17"
+      "pre_id": "PA17",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2320,
@@ -712,7 +876,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA20"
+      "pre_id": "PA20",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2321,
@@ -729,7 +897,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": ""
+      "pre_id": "",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2325,
@@ -746,7 +918,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": "PA25"
+      "pre_id": "PA25",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2328,
@@ -763,7 +939,11 @@
       "genre": "パスタ",
       "is_alcohol": false,
       "icon": "🍝",
-      "pre_id": ""
+      "pre_id": "",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2402,
@@ -780,7 +960,11 @@
       "genre": "ハンバーグ",
       "is_alcohol": false,
       "icon": "🐔",
-      "pre_id": "MT02"
+      "pre_id": "MT02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2403,
@@ -797,7 +981,11 @@
       "genre": "ハンバーグ",
       "is_alcohol": false,
       "icon": "🍖",
-      "pre_id": "MT03"
+      "pre_id": "MT03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2404,
@@ -814,7 +1002,11 @@
       "genre": "ハンバーグ",
       "is_alcohol": false,
       "icon": "🐔",
-      "pre_id": "MT04"
+      "pre_id": "MT04",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2406,
@@ -831,7 +1023,11 @@
       "genre": "ハンバーグ",
       "is_alcohol": false,
       "icon": "🍖",
-      "pre_id": "MT01"
+      "pre_id": "MT01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2407,
@@ -848,7 +1044,11 @@
       "genre": "ハンバーグ",
       "is_alcohol": false,
       "icon": "🍖",
-      "pre_id": "MT07"
+      "pre_id": "MT07",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2413,
@@ -865,7 +1065,11 @@
       "genre": "ハンバーグ",
       "is_alcohol": false,
       "icon": "🍖",
-      "pre_id": "MT13"
+      "pre_id": "MT13",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 2418,
@@ -882,7 +1086,11 @@
       "genre": "ハンバーグ",
       "is_alcohol": false,
       "icon": "🍖",
-      "pre_id": ""
+      "pre_id": "",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3101,
@@ -899,7 +1107,11 @@
       "genre": "ライス・パン",
       "is_alcohol": false,
       "icon": "🍚",
-      "pre_id": "RP01"
+      "pre_id": "RP01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3102,
@@ -916,7 +1128,11 @@
       "genre": "ライス・パン",
       "is_alcohol": false,
       "icon": "🍚",
-      "pre_id": "RP02"
+      "pre_id": "RP02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3103,
@@ -933,7 +1149,11 @@
       "genre": "ライス・パン",
       "is_alcohol": false,
       "icon": "🍚",
-      "pre_id": "RP03"
+      "pre_id": "RP03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3104,
@@ -950,7 +1170,11 @@
       "genre": "ライス・パン",
       "is_alcohol": false,
       "icon": "🍞",
-      "pre_id": "RP04"
+      "pre_id": "RP04",
+      "is_metropolitan": false,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3106,
@@ -967,7 +1191,11 @@
       "genre": "ライス・パン",
       "is_alcohol": false,
       "icon": "🍞",
-      "pre_id": "RP06"
+      "pre_id": "RP06",
+      "is_metropolitan": false,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3108,
@@ -984,7 +1212,11 @@
       "genre": "ライス・パン",
       "is_alcohol": false,
       "icon": "🥖",
-      "pre_id": "RP08"
+      "pre_id": "RP08",
+      "is_metropolitan": false,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3109,
@@ -1001,7 +1233,11 @@
       "genre": "ライス・パン",
       "is_alcohol": false,
       "icon": "🥖",
-      "pre_id": "RP09"
+      "pre_id": "RP09",
+      "is_metropolitan": false,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3201,
@@ -1018,7 +1254,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🧁",
-      "pre_id": "DE01"
+      "pre_id": "DE01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3204,
@@ -1035,7 +1275,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE04"
+      "pre_id": "DE04",
+      "is_metropolitan": false,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3205,
@@ -1052,7 +1296,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE05"
+      "pre_id": "DE05",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3206,
@@ -1069,7 +1317,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🍮",
-      "pre_id": "DE06"
+      "pre_id": "DE06",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3207,
@@ -1086,7 +1338,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🍰",
-      "pre_id": "DE07"
+      "pre_id": "DE07",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3212,
@@ -1103,7 +1359,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🍮",
-      "pre_id": "DE12"
+      "pre_id": "DE12",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3213,
@@ -1120,7 +1380,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE13"
+      "pre_id": "DE13",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3215,
@@ -1137,7 +1401,11 @@
       "genre": "デザート (すぐに)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE15"
+      "pre_id": "DE15",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3301,
@@ -1154,7 +1422,11 @@
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": true,
       "icon": "🍺",
-      "pre_id": "BR01"
+      "pre_id": "BR01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3302,
@@ -1171,7 +1443,11 @@
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": true,
       "icon": "🍺",
-      "pre_id": "BR02"
+      "pre_id": "BR02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3303,
@@ -1188,7 +1464,11 @@
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": false,
       "icon": "🍺",
-      "pre_id": ""
+      "pre_id": "",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3304,
@@ -1205,7 +1485,11 @@
       "genre": "ビール・サワー・ノンアルコール",
       "is_alcohol": true,
       "icon": "🍺",
-      "pre_id": "BR04"
+      "pre_id": "BR04",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3401,
@@ -1222,7 +1506,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍷",
-      "pre_id": "WN01"
+      "pre_id": "WN01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3402,
@@ -1239,7 +1527,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍷",
-      "pre_id": "WN02"
+      "pre_id": "WN02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3403,
@@ -1256,7 +1548,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍷",
-      "pre_id": "WN03"
+      "pre_id": "WN03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3404,
@@ -1273,7 +1569,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍷",
-      "pre_id": "WN04"
+      "pre_id": "WN04",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3405,
@@ -1290,7 +1590,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍷",
-      "pre_id": "WN05"
+      "pre_id": "WN05",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3406,
@@ -1307,7 +1611,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍷",
-      "pre_id": "WN06"
+      "pre_id": "WN06",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3407,
@@ -1324,7 +1632,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN07"
+      "pre_id": "WN07",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3408,
@@ -1341,7 +1653,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN08"
+      "pre_id": "WN08",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3412,
@@ -1358,7 +1674,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN12"
+      "pre_id": "WN12",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3413,
@@ -1375,7 +1695,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN13"
+      "pre_id": "WN13",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3414,
@@ -1392,7 +1716,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN14"
+      "pre_id": "WN14",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3415,
@@ -1409,7 +1737,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN15"
+      "pre_id": "WN15",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3416,
@@ -1426,7 +1758,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN16"
+      "pre_id": "WN16",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3419,
@@ -1443,7 +1779,11 @@
       "genre": "ワイン",
       "is_alcohol": true,
       "icon": "🍾",
-      "pre_id": "WN19"
+      "pre_id": "WN19",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3901,
@@ -1460,7 +1800,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🧁",
-      "pre_id": "DE01"
+      "pre_id": "DE01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3904,
@@ -1477,7 +1821,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE04"
+      "pre_id": "DE04",
+      "is_metropolitan": false,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3905,
@@ -1494,7 +1842,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE05"
+      "pre_id": "DE05",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3906,
@@ -1511,7 +1863,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🍮",
-      "pre_id": "DE06"
+      "pre_id": "DE06",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3907,
@@ -1528,7 +1884,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🍰",
-      "pre_id": "DE07"
+      "pre_id": "DE07",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3912,
@@ -1545,7 +1905,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🍮",
-      "pre_id": "DE12"
+      "pre_id": "DE12",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3913,
@@ -1562,7 +1926,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE13"
+      "pre_id": "DE13",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 3915,
@@ -1579,7 +1947,11 @@
       "genre": "デザート (あとで)",
       "is_alcohol": false,
       "icon": "🍨",
-      "pre_id": "DE15"
+      "pre_id": "DE15",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 4301,
@@ -1596,7 +1968,11 @@
       "genre": "トッピング",
       "is_alcohol": false,
       "icon": "🥚",
-      "pre_id": "TP01"
+      "pre_id": "TP01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 4304,
@@ -1613,7 +1989,11 @@
       "genre": "トッピング",
       "is_alcohol": false,
       "icon": "🥗",
-      "pre_id": "TP04"
+      "pre_id": "TP04",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 4307,
@@ -1630,7 +2010,11 @@
       "genre": "トッピング",
       "is_alcohol": false,
       "icon": "🧀",
-      "pre_id": "TP07"
+      "pre_id": "TP07",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 5101,
@@ -1647,7 +2031,11 @@
       "genre": "ドリンクバー",
       "is_alcohol": false,
       "icon": "🥤",
-      "pre_id": "DB01"
+      "pre_id": "DB01",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 5102,
@@ -1664,7 +2052,11 @@
       "genre": "ドリンクバー",
       "is_alcohol": false,
       "icon": "🥤",
-      "pre_id": "DB02"
+      "pre_id": "DB02",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     },
     {
       "id": 5103,
@@ -1681,8 +2073,12 @@
       "genre": "ドリンクバー",
       "is_alcohol": false,
       "icon": "🥤",
-      "pre_id": "DB03"
+      "pre_id": "DB03",
+      "is_metropolitan": true,
+      "is_urban": true,
+      "is_west": true,
+      "is_east": true
     }
   ],
-  "last_updated": "2024-10-19T10:32:48Z"
+  "last_updated": "2024-10-19T15:40:26Z"
 }
