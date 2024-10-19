@@ -35,6 +35,10 @@ erDiagram
         INTEGER genre_id FK
         INTEGER icon_id FK
         TEXT pre_id
+        INTEGER is_metropolitan
+        INTEGER is_urban
+        INTEGER is_west
+        INTEGER is_east
     }
 
     CATEGORIES ||--o{ MENUS: "has"
