@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.1](https://github.com/ryohidaka/saizeriya-menus/compare/v0.9.0...v0.9.1) (2025-03-05)
+
+
+### Bug Fixes
+
+* DBのバイナリファイルを削除 ([92a7b55](https://github.com/ryohidaka/saizeriya-menus/commit/92a7b55d78bb4ab537cdf753b024c4f4cce0b127))
+
 ## [0.9.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.8.0...v0.9.0) (2024-10-19)
 
 
