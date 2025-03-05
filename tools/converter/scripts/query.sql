@@ -13,11 +13,7 @@ SELECT
     genres.name AS genre,
     menus.is_alcohol,
     icons.icon,
-    menus.pre_id,
-    menus.is_metropolitan,
-    menus.is_urban,
-    menus.is_west,
-    menus.is_east
+    menus.pre_id
 FROM
     menus
     JOIN categories on categories.id == menus.category_id
