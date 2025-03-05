@@ -22,6 +22,12 @@ jobs:
           cache-dependency-path: |
             tools/converter/go.sum
 
+      - name: Restore DB
+        uses: ryohidaka/action-restore-sqlite@v0.1.0
+        with:
+          db: "db/saizeriya.db"
+          dump-file: "db/saizeriya.sql"
+
       - name: Update files
         run: cd tools/converter && go run cmd/main.go --csv --json --md
 
