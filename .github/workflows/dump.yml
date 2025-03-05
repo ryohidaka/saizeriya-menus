@@ -18,11 +18,11 @@ jobs:
         uses: ryohidaka/action-dump-sqlite@v0.1.0
         with:
           db: "db/saizeriya.db"
-          output: "db/dump.sql"
+          output: "db/saizeriya.sql"
 
       - name: Commit and push changes
         uses: ryohidaka/action-commit-push@v0.3.2
         with:
-          files: "db/dump.sql"
+          files: "db/saizeriya.sql"
           commit-message: "chore: Update dump file"
           rebase: true
