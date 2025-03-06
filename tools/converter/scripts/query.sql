@@ -14,7 +14,7 @@ SELECT
     menus.is_alcohol,
     icons.icon,
     menus.pre_id,
-    menus.is_all,
+    menus.is_east,
     menus.is_west
 FROM
     menus
