@@ -1,5 +1,8 @@
 # saizeriya-menus
 
+![Release](https://img.shields.io/github/v/release/ryohidaka/saizeriya-menus)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## 概要
 
 サイゼリヤのメニュー一覧を提供するデータセット
