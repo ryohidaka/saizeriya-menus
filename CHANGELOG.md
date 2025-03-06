@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.10.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.9.1...v0.10.0) (2025-03-06)
+
+
+### Features
+
+* メニュー名の変更に対応 ([a62b23d](https://github.com/ryohidaka/saizeriya-menus/commit/a62b23d7b5486c6753e43938057b1e251e978019))
+* 不足しているメニューのデータを追加 ([f4aa0c0](https://github.com/ryohidaka/saizeriya-menus/commit/f4aa0c04fd1672573e50a8876b2247a8ed577bfc))
+* 全国対象フラグと関西以西対象フラグを追加 ([f0d9ebd](https://github.com/ryohidaka/saizeriya-menus/commit/f0d9ebdc70f3730de4d96aa9ae9d67ae22f7ed6d)), closes [#22](https://github.com/ryohidaka/saizeriya-menus/issues/22)
+* 全国対象フラグのデータを更新 ([5b3915f](https://github.com/ryohidaka/saizeriya-menus/commit/5b3915f5b25cbbb04bdc26e9866ba16a4fc9bfdd))
+* 関西以西対象フラグのデータを更新 ([4c2d629](https://github.com/ryohidaka/saizeriya-menus/commit/4c2d629ca2126bb02637614b415b0214976c766b))
+
+
+### Bug Fixes
+
+* `is_all`を`is_east`に修正 ([3e0d30d](https://github.com/ryohidaka/saizeriya-menus/commit/3e0d30d3dce82333517847e78d5c9cc6400d5c7b))
+* 地域フラグを削除 ([8628b05](https://github.com/ryohidaka/saizeriya-menus/commit/8628b0574ba4e5b34bbd87f0eb64010026575eed)), closes [#21](https://github.com/ryohidaka/saizeriya-menus/issues/21)
+
 ## [0.9.1](https://github.com/ryohidaka/saizeriya-menus/compare/v0.9.0...v0.9.1) (2025-03-05)
 
 
