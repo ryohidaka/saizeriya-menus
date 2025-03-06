@@ -35,6 +35,8 @@ erDiagram
         INTEGER genre_id FK
         INTEGER icon_id FK
         TEXT pre_id
+        INTEGER is_all
+        INTEGER is_west
     }
 
     CATEGORIES ||--o{ MENUS: "has"
@@ -84,3 +86,5 @@ erDiagram
 | `genre_id`       | ジャンル ID                 | `INTEGER` | `12`             |
 | `icon_id`        | アイコン ID                 | `INTEGER` | `6`              |
 | `pre_id`         | 旧メニュー ID               | `TEXT`    | `SA02`           |
+| `is_all`         | 全国対象フラグ              | `INTEGER` | `1`              |
+| `is_west`        | 関西以西対象フラグ          | `INTEGER` | `1`              |
