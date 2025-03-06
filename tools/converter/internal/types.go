@@ -16,4 +16,6 @@ type Menu struct {
 	IsAlcohol    bool    `json:"is_alcohol" csv:"is_alcohol" md:"is_alcohol"`
 	Icon         string  `json:"icon" csv:"icon" md:"icon"`
 	PreID        string  `json:"pre_id" csv:"pre_id" md:"pre_id"`
+	IsAll        bool    `json:"is_all" csv:"is_all" md:"is_all"`
+	IsWest       bool    `json:"is_west" csv:"is_west" md:"is_west"`
 }
