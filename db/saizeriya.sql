@@ -82,7 +82,7 @@ CREATE TABLE IF NOT EXISTS "menus" (
     is_alcohol INTEGER DEFAULT false,
     icon_id INTEGER,
     pre_id TEXT,
-    is_all INTEGER DEFAULT false,
+    is_east INTEGER DEFAULT false,
     is_west INTEGER DEFAULT false,
     PRIMARY KEY(id),
     FOREIGN KEY(category_id) REFERENCES categories(id),

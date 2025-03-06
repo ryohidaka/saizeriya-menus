@@ -50,7 +50,7 @@ func SaveAsCSV(data []Menu, outputPath string) error {
 			fmt.Sprintf("%t", menu.IsAlcohol),
 			menu.Icon,
 			menu.PreID,
-			fmt.Sprintf("%t", menu.IsAll),
+			fmt.Sprintf("%t", menu.IsEast),
 			fmt.Sprintf("%t", menu.IsWest),
 		}
 
