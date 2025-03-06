@@ -122,10 +122,13 @@ INSERT INTO menus VALUES(2103,'半熟卵のミラノ風ドリア','Meat Sauce & 
 INSERT INTO menus VALUES(2106,'タラコとエビのドリア','Doria with “TARAKO”Sauce & Shrimp','鳕鱼籽虾焗饭',364,400,578,2.799999999999999823,1,21,0,7,'DG06',0,0);
 INSERT INTO menus VALUES(2108,'焼チーズ ミラノ風ドリア','Doria with Meat Sauce & Cheese','多利亚肉酱和奶酪',319,350,652,2.899999999999999912,1,21,0,7,'DG08',1,0);
 INSERT INTO menus VALUES(2109,'エビとタラコのクリームグラタン（全粒粉）','Gratin with “TARAKO”Sauce & Shrimp','TARAKO醬蝦焗烤',391,400,481,2.100000000000000088,1,21,0,7,NULL,0,0);
+INSERT INTO menus VALUES(2110,'タラコとポップコーンシュリンプのドリア',NULL,NULL,364,400,NULL,NULL,1,21,0,7,NULL,1,0);
+INSERT INTO menus VALUES(2115,'ポップコーンシュリンプとタラコのクリームグラタン（全粒粉）',NULL,NULL,391,430,NULL,NULL,1,21,0,7,NULL,1,0);
 INSERT INTO menus VALUES(2203,'バッファローモッツァレラのマルゲリータピザ','Pizza with  Buffalo Mozzarella Cheese','水牛马苏里拉披萨',364,400,544,2.399999999999999912,1,22,0,17,'PZ02',1,0);
 INSERT INTO menus VALUES(2204,'野菜ときのこのピザ','Pizza with Mushrooms & Vegetable Salsa','蔬菜蘑菇比萨',364,400,593,3.200000000000000177,1,22,0,17,'PZ04',1,0);
 INSERT INTO menus VALUES(2206,'たっぷりコーンのピザ','Corn Pizza','足量甜玉米比萨',364,400,624,2.600000000000000088,1,22,0,17,'PZ06',1,0);
 INSERT INTO menus VALUES(2208,'ソーセージピザ','Sausage Pizza','香肠比萨',364,400,710,4.099999999999999644,1,22,0,17,'PZ08',1,0);
+INSERT INTO menus VALUES(2301,'タラコソースシシリー風',NULL,NULL,364,400,NULL,NULL,1,23,0,18,NULL,1,0);
 INSERT INTO menus VALUES(2303,'ペペロンチーノ','Spaghetti Peperoncino','香辣意面',273,300,582,1.899999999999999912,1,23,0,18,'PA03',1,0);
 INSERT INTO menus VALUES(2304,'パルマ風スパゲティ','Spaghetti with tomato＆pancetta','番茄培根意大利面',364,400,753,3.100000000000000088,1,23,0,18,'PA04',1,0);
 INSERT INTO menus VALUES(2305,'カルボナーラ','Spaghetti Carbonara','奶油培根意面',455,500,799,3.100000000000000088,1,23,0,18,'PA05',1,0);
@@ -151,6 +154,9 @@ INSERT INTO menus VALUES(3104,'シナモンプチフォッカ','Petit Focaccia w
 INSERT INTO menus VALUES(3106,'プチフォッカ','Petit Focaccias','迷你香草面包',137,150,214,0.8000000000000000444,1,31,0,20,'RP06',0,0);
 INSERT INTO menus VALUES(3108,'ミニフィセル','Mini Ficelle','迷你法式面包',137,150,189,1,1,31,0,21,'RP08',0,0);
 INSERT INTO menus VALUES(3109,'ガーリックトースト','Garlic Toast','蒜香烤面包',182,200,245,1.100000000000000089,1,31,0,21,'RP09',0,0);
+INSERT INTO menus VALUES(3110,'フォッカチオ',NULL,NULL,137,150,NULL,NULL,1,31,0,20,NULL,1,0);
+INSERT INTO menus VALUES(3111,'ガーリックフォッカチオ',NULL,NULL,182,200,NULL,NULL,1,31,0,20,NULL,1,0);
+INSERT INTO menus VALUES(3112,'シナモンフォッカチオ',NULL,NULL,182,200,NULL,NULL,1,31,0,20,NULL,1,0);
 INSERT INTO menus VALUES(3201,'ティラミス　クラシコ','Tiramisu','提拉米苏经典系列',273,300,229,0.1000000000000000055,1,32,0,28,'DE01',1,0);
 INSERT INTO menus VALUES(3204,'ジェラート＆シナモンプチフォッカ','Petit Focaccias with Cinamon Sugar & Italian Gelato','肉桂糖迷你香草面包配意大利冰激淋',410,450,372,0.9000000000000000222,1,32,0,22,'DE04',0,0);
 INSERT INTO menus VALUES(3205,'ミルクジェラート','Italian Gelato','意大利冰激淋',228,250,121,0.1000000000000000055,1,32,0,22,'DE05',1,0);
@@ -158,6 +164,7 @@ INSERT INTO menus VALUES(3206,'イタリアンプリン','Italian Cream Caramel'
 INSERT INTO menus VALUES(3207,'チョコレートケーキ','Chocolate Cake','巧克力蛋糕',273,300,166,0.1000000000000000055,1,32,0,24,'DE07',1,0);
 INSERT INTO menus VALUES(3212,'プリンとティラミス　クラシコの盛合せ','Tiramisu & Italian Cream Caramel','布丁配提拉米苏',455,500,445,0.2000000000000000111,1,32,0,23,'DE12',1,0);
 INSERT INTO menus VALUES(3213,'トリフアイスクリーム','Ice Cream Truffle','松露冰激淋',319,350,164,0.1000000000000000055,1,32,0,22,'DE13',1,0);
+INSERT INTO menus VALUES(3214,'ジェラート＆シナモンフォッカチオ',NULL,NULL,410,450,NULL,NULL,1,32,0,22,NULL,1,0);
 INSERT INTO menus VALUES(3215,'コーヒーゼリー＆ミルクジェラート','Coffee Jelly with Italian Gelato','意大利冰激淋配咖啡果冻',319,350,165,0.1000000000000000055,1,32,0,22,'DE15',1,0);
 INSERT INTO menus VALUES(3301,'生ビール キリン一番搾り　ジョッキ',NULL,NULL,364,400,NULL,NULL,1,33,1,25,'BR01',1,0);
 INSERT INTO menus VALUES(3302,'生ビール キリン一番搾り　グラスビール',NULL,NULL,273,300,NULL,NULL,1,33,1,25,'BR02',1,0);
@@ -185,6 +192,7 @@ INSERT INTO menus VALUES(3906,'イタリアンプリン','Italian Cream Caramel'
 INSERT INTO menus VALUES(3907,'チョコレートケーキ','Chocolate Cake','巧克力蛋糕',273,300,166,0.1000000000000000055,1,39,0,24,'DE07',1,0);
 INSERT INTO menus VALUES(3912,'プリンとティラミス　クラシコの盛合せ','Tiramisu & Italian Cream Caramel','布丁配提拉米苏',455,500,445,0.2000000000000000111,1,39,0,23,'DE12',1,0);
 INSERT INTO menus VALUES(3913,'トリフアイスクリーム','Ice Cream Truffle','松露冰激淋',319,350,164,0.1000000000000000055,1,39,0,22,'DE13',1,0);
+INSERT INTO menus VALUES(3914,'ジェラート＆シナモンフォッカチオ',NULL,NULL,410,450,NULL,NULL,1,32,0,22,NULL,1,0);
 INSERT INTO menus VALUES(3915,'コーヒーゼリー＆ミルクジェラート','Coffee Jelly with Italian Gelato','意大利冰激淋配咖啡果冻',319,350,165,0.1000000000000000055,1,39,0,22,'DE15',1,0);
 INSERT INTO menus VALUES(4301,'トッピング半熟卵','Coddled Egg for Topping','加半熟蛋',46,50,83,0.2000000000000000111,1,43,0,29,'TP01',1,0);
 INSERT INTO menus VALUES(4304,'トッピング野菜ソース','Vegetable Paste','蔬菜酱',91,100,72,0.2999999999999999889,1,43,0,1,'TP04',1,0);
