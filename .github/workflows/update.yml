@@ -2,6 +2,8 @@ name: Update
 
 on:
   push:
+    branches-ignore:
+      - "main"
     paths:
       - "db/**"
       - "tools/converter/**"
