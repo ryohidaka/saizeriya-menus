@@ -145,6 +145,7 @@ INSERT INTO menus VALUES(2406,'ハンバーグステーキ','Hamburg Steak(Demi-
 INSERT INTO menus VALUES(2407,'ディアボラ風ハンバーグ','Hamburg Steak with Chopped Vegetable Sauce','意式恶魔风汉堡牛排',455,500,618,3.100000000000000088,1,24,0,14,'MT07');
 INSERT INTO menus VALUES(2413,'ラム（仔羊）と野菜のグリル','Grilled Lamb ＆ Vegetables','烤羊肉＆蔬菜',791,870,371,2.399999999999999912,1,24,0,14,'MT13');
 INSERT INTO menus VALUES(2418,'ミックスグリル','Mixed Grill','混合烧烤',591,650,779,3.600000000000000088,1,24,0,14,NULL);
+INSERT INTO menus VALUES(2419,'ビーフステーキ(ガルムソース)','Beef Steak','牛排',991,1090,374,2.5,1,24,0,14,NULL);
 INSERT INTO menus VALUES(3101,'ライス','Rice','米饭',137,150,303,NULL,1,31,0,19,'RP01');
 INSERT INTO menus VALUES(3102,'ラージライス','Large Rice','米饭',182,200,303,NULL,1,31,0,19,'RP02');
 INSERT INTO menus VALUES(3103,'スモールライス','Small Rice','米饭',91,100,303,NULL,1,31,0,19,'RP03');
