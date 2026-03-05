@@ -57,6 +57,7 @@
 | 2406 | ハンバーグステーキ | Hamburg Steak(Demi-Glace Sauce) | 汉堡牛排(半冰酱) | 364 | 400 | 571 | 2.5 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 | MT01 |
 | 2407 | ディアボラ風ハンバーグ | Hamburg Steak with Chopped Vegetable Sauce | 意式恶魔风汉堡牛排 | 455 | 500 | 618 | 3.1 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 | MT07 |
 | 2413 | ラム（仔羊）と野菜のグリル | Grilled Lamb ＆ Vegetables | 烤羊肉＆蔬菜 | 791 | 870 | 371 | 2.4 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 | MT13 |
+| 2417 | ラムのランプステーキ | Lamb Rump Steak |  | 991 | 1090 | 357 | 2.2 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |  |
 | 2418 | ミックスグリル | Mixed Grill | 混合烧烤 | 591 | 650 | 779 | 3.6 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |  |
 | 2419 | ビーフステーキ(ガルムソース) | Beef Steak | 牛排 | 991 | 1090 | 374 | 2.5 | グランド | Grand Menu | 主 | ハンバーグ | false | 🍖 |  |
 | 3101 | ライス | Rice | 米饭 | 137 | 150 | 303 | 0.0 | グランド | Grand Menu | 主 | ライス・パン | false | 🍚 | RP01 |

@@ -970,6 +970,23 @@
       "pre_id": "MT13"
     },
     {
+      "id": 2417,
+      "name": "ラムのランプステーキ",
+      "name_en": "Lamb Rump Steak",
+      "name_zh": "",
+      "price": 991,
+      "price_with_tax": 1090,
+      "calorie": 357,
+      "salt": 2.2,
+      "category": "グランド",
+      "category_en": "Grand Menu",
+      "category_zh": "主",
+      "genre": "ハンバーグ",
+      "is_alcohol": false,
+      "icon": "🍖",
+      "pre_id": ""
+    },
+    {
       "id": 2418,
       "name": "ミックスグリル",
       "name_en": "Mixed Grill",
@@ -1939,5 +1956,5 @@
       "pre_id": ""
     }
   ],
-  "last_updated": "2026-03-05T09:38:56Z"
+  "last_updated": "2026-03-05T09:43:49Z"
 }
