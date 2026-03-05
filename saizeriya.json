@@ -987,6 +987,23 @@
       "pre_id": ""
     },
     {
+      "id": 2419,
+      "name": "ビーフステーキ(ガルムソース)",
+      "name_en": "Beef Steak",
+      "name_zh": "牛排",
+      "price": 991,
+      "price_with_tax": 1090,
+      "calorie": 374,
+      "salt": 2.5,
+      "category": "グランド",
+      "category_en": "Grand Menu",
+      "category_zh": "主",
+      "genre": "ハンバーグ",
+      "is_alcohol": false,
+      "icon": "🍖",
+      "pre_id": ""
+    },
+    {
       "id": 3101,
       "name": "ライス",
       "name_en": "Rice",
@@ -1922,5 +1939,5 @@
       "pre_id": ""
     }
   ],
-  "last_updated": "2026-03-05T09:30:01Z"
+  "last_updated": "2026-03-05T09:38:56Z"
 }
