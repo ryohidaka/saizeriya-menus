@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.10.0...v0.11.0) (2026-03-06)
+
+
+### Miscellaneous Chores
+
+* release 0.11.0 ([db6a862](https://github.com/ryohidaka/saizeriya-menus/commit/db6a862c4e1ec8a9ec54148b153714a2eba6e8bd))
+
 ## [0.10.0](https://github.com/ryohidaka/saizeriya-menus/compare/v0.9.1...v0.10.0) (2025-03-06)
 
 
