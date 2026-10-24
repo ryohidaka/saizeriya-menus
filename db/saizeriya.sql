@@ -108,7 +108,7 @@ INSERT INTO menus VALUES(1411,'アスパラガスの温サラダ','Asparagus wit
 INSERT INTO menus VALUES(1413,'キャロットラペ','Refreshing Carrot Salad','爽口胡萝卜沙拉',182,200,93,0.9000000000000000222,1,14,0,11,'AA13');
 INSERT INTO menus VALUES(1414,'モッツァレラトマト','Buffalo Mozzarella Cheese &  Tomato','布法罗马苏里拉奶酪和番茄',391,430,255,0.2000000000000000111,1,14,0,12,'AA14');
 INSERT INTO menus VALUES(1415,'カリッとポテト','Crispy Potatoes','酥烤马铃薯',255,280,389,2.100000000000000088,1,14,0,13,'AA15');
-INSERT INTO menus VALUES(1416,'ポテトのグリル','Hashed Potato',NULL,273,300,NULL,NULL,1,14,0,13,'');
+INSERT INTO menus VALUES(1416,'ポテトのグリル','Hashed Potato',NULL,273,300,307,1.5,1,14,0,13,'');
 INSERT INTO menus VALUES(1417,'バッファローモッツァレラのカプレーゼ','Buffalo Mozzarella Cheese &  Tomato',NULL,391,430,NULL,NULL,1,14,0,12,'');
 INSERT INTO menus VALUES(1422,'ハモン・セラーノ','Jamon Serrano','火腿塞拉诺',291,320,39,0.9000000000000000222,1,14,0,14,'AA22');
 INSERT INTO menus VALUES(1423,'生ハムとバッファローモッツァレラの盛合せ','Jamon Serrano &  Buffalo Mozzarella Cheese','火腿塞拉诺和水牛马苏里拉奶酪',455,500,146,1,1,14,0,15,NULL);
